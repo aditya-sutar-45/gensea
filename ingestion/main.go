@@ -27,14 +27,26 @@ func main() {
 
 	raw_ocean_data, err := parsers.LoadCSV[models.RawOceanData]("../data_lake/csv/oceanographic_data.csv")
 	if err != nil {
-		log.Fatalln("failed to load csv!", err)
+		log.Fatalln("failed to load ocean data csv!", err)
 		return
 	}
 	log.Println("loaded ocean data from csv")
+
+	raw_fisheries_data, err := parsers.LoadCSV[models.RawFisheriesData]("../data_lake/csv/fisheries_catch_data.csv")
+	if err != nil {
+		log.Fatalln("failed to load fisheries csv!", err)
+		return
+	}
 
 	if err := db.ImportRecords(ctx, DB, raw_ocean_data); err != nil {
 		log.Fatalln("failed to insert data into table", err)
 		return
 	}
-	log.Println("imported records of len: ", len(raw_ocean_data))
+	log.Println("imported ocean_data records of len: ", len(raw_ocean_data))
+
+	if err := db.ImportRecords(ctx, DB, raw_fisheries_data); err != nil {
+		log.Fatalln("failed to insert data into table", err)
+		return
+	}
+	log.Println("imported fisheries_data records of len: ", len(raw_fisheries_data))
 }
