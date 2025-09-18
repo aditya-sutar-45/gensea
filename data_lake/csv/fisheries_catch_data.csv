@@ -1,0 +1,71 @@
+catch_id,date,vessel_id,port,species_common,species_scientific,catch_weight_kg,market_price_per_kg,fishing_method,depth_fished_m,latitude,longitude,effort_hours,crew_size,weather_condition,bycatch_kg
+CATCH_001,2024-06-27,FV_003,Visakhapatnam,Pomfret,Pampus argenteus,17.24,139.74,hook_line,273.0,12.0791,72.1672,,5,,10.71
+CATCH_002,2024-11-07,FV_005,Visakhapatnam,Grouper,Epinephelus malabaricus,59.89,91.34,trawl,196.0,12.1624,78.9572,3.0,9,rough,1.36
+CATCH_003,2023-03-07,FV_003,Calicut,Tuna,Thunnus albacares,72.26,189.89,trawl,24.0,10.2103,75.5699,19.2,3,moderate,0.09
+CATCH_004,20-May-2023,FV_001,Calicut,Tuna,Thunnus albacares,332.87,N/A,trawl,162.0,15.8045,74.8841,23.7,4,very_rough,1.44
+CATCH_005,2023-05-24,FV_005,Mangalore,Barracuda,Sphyraena jello,35.22,57.03,gill_net,170.0,10.9636,74.6794,25.9,9,moderate,
+CATCH_006,2023-06-29,FV_004,Mangalore,Anchovy,Stolephorus indicus,154.24,242.83,purse_seine,253.0,14.1446,80.5532,10.6,8,rough,
+CATCH_007,12-Sep-2024,FV_002,Chennai,Indian Mackerel,Rastrelliger kanagurta,1077.28,125.91,unknown,72.0,12.8142,75.3088,,7,rough,
+CATCH_008,2023-08-30,FV_006,Visakhapatnam,Kingfish,Scomberomorus commerson,67.8,249.42,trawl,261.0,12.2398,80.094,4.2,4,moderate,2.78
+CATCH_009,02-Jun-2024,FV_006,Chennai,Anchovy,Stolephorus indicus,758.46,N/A,trawl,104.0,13.6714,71.6331,15.4,8,,
+CATCH_010,2023-06-11,FV_003,Visakhapatnam,Kingfish,Scomberomorus commerson,137.96,264.02,purse_seine,177.0,15.1958,74.974,7.4,12,moderate,
+CATCH_011,2023-01-24,FV_002,Chennai,Red Snapper,Lutjanus argentimaculatus,51.56,243.44,hook_line,143.0,9.3433,72.0415,5.8,-1,,69.51
+CATCH_012,2024-04-09,FV_003,Chennai,Red Snapper,Lutjanus argentimaculatus,189.01,170.99,hook_line,120.0,16.9569,78.1263,3.7,5,calm,22.19
+CATCH_013,2023-09-26,FV_004,Kochi,Red Snapper,,37.38,71.85,purse_seine,213.0,14.1817,78.5014,4.5,4,,
+CATCH_014,2023-12-07,FV_005,Calicut,Sardine,Sardinella longiceps,304.45,N/A,purse_seine,205.0,10.7226,74.4508,5.3,12,moderate,23.7
+CATCH_015,2024-05-30,FV_005,Visakhapatnam,Grouper,Epinephelus malabaricus,171.84,91.03,trawl,265.0,15.8451,78.9739,3.3,7,,24.91
+CATCH_016,2023-09-28,FV_002,Mangalore,Kingfish,Scomberomorus commerson,54.44,151.26,hook_line,,9.3376,70.4303,2.4,9,calm,0.14
+CATCH_017,21-May-2024,FV_004,Visakhapatnam,Sardine,Sardinella longiceps,208.99,72.84,gill_net,57.0,9.8336,80.0194,5.7,12,,8.85
+CATCH_018,08/20/2024,FV_002,Visakhapatnam,Croaker,Johnius belangerii,682.06,203.77,trawl,72.0,11.5475,81.4146,1.2,4,very_rough,12.63
+CATCH_019,2024-11-06,FV_006,Mangalore,Tuna,Thunnus albacares,19758.33,160.53,unknown,76.0,9.9023,77.7237,7.0,4,,18.99
+CATCH_020,26-Jan-2024,FV_004,Kochi,Tuna,,93.06,145.41,hook_line,155.0,13.8245,71.8496,4.0,7,,30.27
+CATCH_021,2024-01-03,FV_004,Visakhapatnam,Barracuda,Sphyraena jello,55.94,105.61,trawl,198.0,13.5248,75.1122,,10,,51.05
+CATCH_022,2023-06-08,FV_001,Visakhapatnam,Barracuda,Sphyraena jello,634.68,112.48,unknown,137.0,12.7078,70.5727,18.1,-1,calm,51.0
+CATCH_023,27-Feb-2024,FV_005,Kochi,Croaker,Johnius belangerii,117.2,N/A,unknown,101.0,15.0756,70.5431,3.1,8,,11.2
+CATCH_024,2024-11-17,FV_002,Mumbai,Sardine,Sardinella longiceps,232.8,87.69,,64.0,11.998157941235517,74.7392,,10,,0.8
+CATCH_025,2024-11-04,FV_005,Chennai,Grouper,Epinephelus malabaricus,10.11,105.0,unknown,164.0,8.7887,72.2896,3.9,6,calm,6.54
+CATCH_026,2024-10-26,FV_004,Mumbai,Barracuda,Sphyraena jello,75.85,N/A,gill_net,237.0,16.6748,80.3176,5.4,12,very_rough,
+CATCH_027,09-Jan-2023,FV_006,Mangalore,Anchovy,Stolephorus indicus,77.35,120.08,purse_seine,,11.5971,78.6954,29.5,10,moderate,7.94
+CATCH_028,24-Jun-2024,FV_006,Visakhapatnam,Croaker,Johnius belangerii,117.65,101.67,,187.0,12.0349,71.936,6.9,10,moderate,61.42
+CATCH_029,2024-08-24,FV_004,Mumbai,Croaker,Johnius belangerii,55.31,207.97,hook_line,194.0,15.1638,80.1344,7.5,4,,1.39
+CATCH_030,2023-06-27,FV_004,Chennai,Pomfret,Pampus argenteus,225.94,198.66,trawl,143.0,11.2134,79.9354,0.5,-1,calm,13.6
+CATCH_031,2023-04-27,FV_003,Kochi,Red Snapper,Lutjanus argentimaculatus,269.09,175.43,gill_net,273.0,13.4386,70.6051,0.2,4,calm,27.85
+CATCH_032,2024-09-16,FV_001,Mumbai,Barracuda,Sphyraena jello,,128.48,purse_seine,159.0,14.3735,75.9807,4.9,8,rough,3.68
+CATCH_033,2023-05-06,FV_004,Chennai,Anchovy,Stolephorus indicus,1246.23,121.67,purse_seine,222.0,11.2458,71.8193,7.7,6,moderate,11.81
+CATCH_034,2024-02-28,FV_001,Visakhapatnam,Barracuda,Sphyraena jello,26.85,N/A,,53.0,11.0447,79.2685,2.7,3,,4.09
+CATCH_035,06/04/2023,FV_006,Calicut,Barracuda,Sphyraena jello,48.04,93.99,unknown,186.0,8.0711,76.3335,4.2,10,,18.26
+CATCH_036,2024-07-11,FV_006,Visakhapatnam,Grouper,Epinephelus malabaricus,49.04,84.63,trawl,,11.0104,78.8806,30.0,7,moderate,
+CATCH_037,2024-07-19,FV_005,Mangalore,Kingfish,Scomberomorus commerson,,70.11,purse_seine,268.0,8.994,74.4757,24.7,3,,24.15
+CATCH_038,2024-04-04,FV_006,Mangalore,Grouper,Epinephelus malabaricus,55.32,140.15,unknown,129.0,11.153,79.4175,2.5,9,,10.58
+CATCH_039,2023-04-18,FV_004,Visakhapatnam,Sardine,Sardinella longiceps,300.77,126.77,gill_net,238.0,8.7027,74.833,15.6,7,,27.95
+CATCH_040,2024-03-09,FV_002,Mumbai,Grouper,Epinephelus malabaricus,89.16,93.63,hook_line,272.0,15.7694,72.5517,0.5,11,rough,18.14
+CATCH_041,2023-05-02,FV_005,Mumbai,Pomfret,Pampus argenteus,1.98,206.4,purse_seine,258.0,8.2518,79.4055,4.2,7,rough,5.99
+CATCH_042,15-May-2024,FV_004,Visakhapatnam,Barracuda,Sphyraena jello,236.43,111.87,purse_seine,253.0,15.5101,71.5937,13.4,10,,5.22
+CATCH_043,30-Nov-2023,FV_002,Visakhapatnam,Croaker,Johnius belangerii,118.24,N/A,unknown,152.0,13.8132,78.4865,10.4,7,,17.71
+CATCH_044,2024-10-21,FV_005,Mangalore,Croaker,Johnius belangerii,874.31,201.82,trawl,282.0,9.685836232657529,79.4411,7.5,12,very_rough,
+CATCH_045,2024-06-30,FV_003,Visakhapatnam,Indian Mackerel,Rastrelliger kanagurta,493.25,N/A,,141.0,8.8192,76.5014,1.4,4,moderate,20.9
+CATCH_046,02/22/2024,FV_003,Visakhapatnam,Sardine,Sardinella longiceps,167.99,92.32,purse_seine,71.0,8.4669,77.1641,2.6,11,very_rough,9.65
+CATCH_047,03-Oct-2023,FV_001,Visakhapatnam,Grouper,Epinephelus malabaricus,81.23,197.06,trawl,61.0,10.2168,79.4226,6.7,4,,14.98
+CATCH_048,2023-05-26,FV_005,Visakhapatnam,Red Snapper,,146.27,159.59,,95.0,8.0049,75.7862,0.4,9,rough,3.98
+CATCH_049,2023-08-06,FV_001,Chennai,Indian Mackerel,Rastrelliger kanagurta,135.46,102.98,gill_net,153.0,15.9045,76.0578,5.6,8,,5.85
+CATCH_050,2024-04-08,FV_005,Chennai,Sardine,,59.71,121.96,unknown,253.0,7.9285352705950745,72.0824,21.0,10,very_rough,30.34
+CATCH_051,2024-10-26,FV_004,Mangalore,Grouper,Epinephelus malabaricus,245.94,144.6,unknown,73.0,12.1642,75.3349,0.9,-1,rough,22.43
+CATCH_052,2024-01-02,FV_004,Chennai,Tuna,,330.01,129.49,unknown,117.0,8.0642,77.6612,8.3,11,very_rough,26.97
+CATCH_053,2023-07-18,FV_002,Calicut,Croaker,Johnius belangerii,172.24,164.22,,277.0,14.5601,80.172,,11,,15.59
+CATCH_054,07/27/2024,FV_001,Chennai,Anchovy,Stolephorus indicus,122.63,123.72,purse_seine,275.0,12.1993,79.1083,8.2,7,very_rough,1.27
+CATCH_055,20-Nov-2023,FV_001,Calicut,Red Snapper,Lutjanus argentimaculatus,114.19,151.62,trawl,110.0,9.4803,77.5119,2.8,3,,11.83
+CATCH_056,2023-12-09,FV_001,Chennai,Grouper,Epinephelus malabaricus,28.64,199.72,trawl,234.0,14.8769,76.9472,1.4,3,very_rough,1.65
+CATCH_057,2023-03-08,FV_005,Calicut,Grouper,Epinephelus malabaricus,,182.3,trawl,160.0,15.6494,77.4076,1.3,12,calm,31.45
+CATCH_058,2024-04-20,FV_006,Kochi,Croaker,Johnius belangerii,150.24,101.52,gill_net,16.0,13.3566,79.473,8.4,11,rough,30.37
+CATCH_059,2024-05-07,FV_002,Chennai,Red Snapper,Lutjanus argentimaculatus,352.27,145.96,unknown,169.0,13.253,71.7475,7.9,7,rough,1.17
+CATCH_060,2024-06-14,FV_005,Kochi,Indian Mackerel,Rastrelliger kanagurta,23.85,129.69,gill_net,113.0,15.0674,78.0143,3.9,12,,42.97
+CATCH_061,2024-08-15,FV_004,Kochi,Tuna,Thunnus albacares,188.51,119.16,unknown,127.0,12.1988,75.769,14.4,9,moderate,18.59
+CATCH_062,2023-01-07,FV_004,Mumbai,Indian Mackerel,Rastrelliger kanagurta,23.87,104.87,purse_seine,,8.2672,72.0898,8.2,8,,6.25
+CATCH_063,20-Jul-2023,FV_004,Calicut,Tuna,Thunnus albacares,44984.04,197.35,gill_net,132.0,11.3268,72.0563,2.4,12,very_rough,4.91
+CATCH_064,08-Mar-2023,FV_004,Calicut,Kingfish,Scomberomorus commerson,533.78,188.17,unknown,33.0,14.8677,80.2532,29.3,6,calm,55.7
+CATCH_065,2023-10-14,FV_001,Visakhapatnam,Croaker,Johnius belangerii,13.5,175.57,gill_net,270.0,11.3684,72.148,13.8,10,,15.59
+CATCH_066,2024-04-30,FV_002,Visakhapatnam,Croaker,Johnius belangerii,208.45,167.61,purse_seine,203.0,13.1423,74.4893,32.4,4,rough,36.43
+CATCH_067,12/27/2023,FV_004,Visakhapatnam,Barracuda,Sphyraena jello,115.65,106.41,purse_seine,22.0,9.6161,77.7443,0.3,11,,6.75
+CATCH_068,2023-03-22,FV_005,Mumbai,Pomfret,Pampus argenteus,350.19,131.35,purse_seine,150.0,9.7158,71.6544,0.5,11,rough,
+CATCH_069,2023-11-03,FV_006,Kochi,Anchovy,Stolephorus indicus,111.34,242.42,gill_net,126.0,10.0423,75.6933,5.1,10,,39.58
+CATCH_070,2023-12-15,FV_004,Mumbai,Red Snapper,Lutjanus argentimaculatus,204.93,163.1,trawl,75.0,10.7501,75.9976,0.5,6,very_rough,53.94

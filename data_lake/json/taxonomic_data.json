@@ -1,0 +1,3466 @@
+[
+  {
+    "specimen_id": "SPEC_17bafd36-8",
+    "collection_date": "2025-05-12T12:52:07.917562",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Actinopterygii",
+      "order": "Perciformes",
+      "family": "Stromateidae",
+      "genus": "Pampus",
+      "species": "Pampus argenteus",
+      "common_name": "Pomfret"
+    },
+    "morphometrics": {
+      "total_length_mm": 184.1,
+      "standard_length_mm": 153.3,
+      "weight_g": 859.96,
+      "head_length_mm": 45.0,
+      "eye_diameter_mm": 10.3
+    },
+    "collection_info": {
+      "collector": "Dr. Nair",
+      "location": {
+        "coordinates": [15.6663, 75.4582],
+        "depth_m": 357,
+        "region": "Lakshadweep"
+      },
+      "method": "gillnet"
+    },
+    "otolith_data": {
+      "left_otolith": {
+        "length_mm": 8.84,
+        "width_mm": 5.66,
+        "weight_mg": "N/A",
+        "shape_descriptors": {
+          "circularity": 0.763,
+          "roundness": 0.67,
+          "aspect_ratio": 1.689
+        }
+      },
+      "right_otolith": {
+        "length_mm": 16.54,
+        "width_mm": 3.99,
+        "weight_mg": 36.111
+      }
+    },
+    "genetic_data": {
+      "dna_extracted": "no",
+      "sequence_available": true,
+      "genbank_id": null,
+      "marker_genes": ["COI"]
+    },
+    "data_quality": {
+      "identification_confidence": "uncertain",
+      "preservation_state": "fair",
+      "verified_by": "morphology"
+    }
+  },
+  {
+    "specimen_id": "SPEC_194ae911-3",
+    "collection_date": "2025-09-17T12:52:07.917775",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Actinopterygii",
+      "order": "Perciformes",
+      "family": "Serranidae",
+      "genus": "Epinephelus",
+      "species": "Epinephelus malabaricus",
+      "common_name": "Grouper"
+    },
+    "morphometrics": {
+      "total_length_mm": 252.7,
+      "standard_length_mm": 207.2,
+      "weight_g": 414.18,
+      "head_length_mm": 50.9,
+      "eye_diameter_mm": 10.1
+    },
+    "collection_info": {
+      "collector": "",
+      "location": {
+        "coordinates": [16.282, 81.1923],
+        "depth_m": 374,
+        "region": "Arabian Sea"
+      },
+      "method": null
+    },
+    "otolith_data": {
+      "left_otolith": {
+        "length_mm": 14.94,
+        "width_mm": 5.04,
+        "weight_mg": 39.317,
+        "shape_descriptors": {
+          "circularity": 0.646,
+          "roundness": 0.623,
+          "aspect_ratio": 1.49
+        }
+      },
+      "right_otolith": {
+        "length_mm": 17.0,
+        "width_mm": null,
+        "weight_mg": 60.998
+      }
+    },
+    "genetic_data": {
+      "dna_extracted": false,
+      "sequence_available": true,
+      "genbank_id": null,
+      "marker_genes": ["COI", "16S", "12S"]
+    },
+    "data_quality": {
+      "identification_confidence": "medium",
+      "preservation_state": "excellent",
+      "verified_by": "taxonomist"
+    }
+  },
+  {
+    "specimen_id": "SPEC_35b1dc1f-8",
+    "collection_date": "2023-11-14T12:52:07.917887",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Actinopterygii",
+      "order": "Clupeiformes",
+      "family": "Engraulidae",
+      "genus": "Stolephorus",
+      "species": "Stolephorus indicus",
+      "common_name": "Anchovy"
+    },
+    "morphometrics": {
+      "total_length_mm": 140.2,
+      "standard_length_mm": 222.8,
+      "weight_g": 54.35,
+      "head_length_mm": 45.7,
+      "eye_diameter_mm": -1
+    },
+    "collection_info": {
+      "collector": "Prof. Kumar",
+      "location": {
+        "coordinates": [13.2714, 69.2049],
+        "depth_m": 111,
+        "region": "Lakshadweep"
+      },
+      "method": "trawl"
+    },
+    "otolith_data": {
+      "left_otolith": {
+        "length_mm": 19.59,
+        "width_mm": 5.16,
+        "weight_mg": 28.314,
+        "shape_descriptors": {
+          "circularity": 0.847,
+          "roundness": 0.517,
+          "aspect_ratio": 1.755
+        }
+      },
+      "right_otolith": {
+        "length_mm": 15.23,
+        "width_mm": 3.43,
+        "weight_mg": 31.978
+      }
+    },
+    "genetic_data": {
+      "dna_extracted": false,
+      "sequence_available": null,
+      "genbank_id": null,
+      "marker_genes": null
+    },
+    "data_quality": {
+      "identification_confidence": "medium",
+      "preservation_state": null,
+      "verified_by": ""
+    }
+  },
+  {
+    "specimen_id": "SPEC_661518a6-c",
+    "collection_date": "2023-11-15T12:52:07.918022",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Actinopterygii",
+      "order": "Perciformes",
+      "family": "Sphyraenidae",
+      "genus": "Sphyraena",
+      "species": "Sphyraena jello",
+      "common_name": "Barracuda"
+    },
+    "morphometrics": {
+      "total_length_mm": 297.7,
+      "standard_length_mm": 158.8,
+      "weight_g": 402.81,
+      "head_length_mm": 56.2,
+      "eye_diameter_mm": 9.3
+    },
+    "collection_info": {
+      "collector": "Ms. Patel",
+      "location": {
+        "coordinates": [14.9533, 81.0268],
+        "depth_m": 350,
+        "region": "Lakshadweep"
+      },
+      "method": null
+    },
+    "otolith_data": {
+      "left_otolith": {
+        "length_mm": 13.07,
+        "width_mm": 6.98,
+        "weight_mg": 52.401,
+        "shape_descriptors": {
+          "circularity": 0.701,
+          "roundness": 0.8,
+          "aspect_ratio": 1.599
+        }
+      },
+      "right_otolith": {
+        "length_mm": 11.59,
+        "width_mm": 9.23,
+        "weight_mg": 34.558
+      }
+    },
+    "genetic_data": {
+      "dna_extracted": null,
+      "sequence_available": false,
+      "genbank_id": "MZ551504",
+      "marker_genes": null
+    },
+    "data_quality": {
+      "identification_confidence": "low",
+      "preservation_state": null,
+      "verified_by": "molecular"
+    }
+  },
+  {
+    "specimen_id": "SPEC_a59be03e-d",
+    "collection_date": "2024-08-29T12:52:07.918124",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Actinopterygii",
+      "order": "Perciformes",
+      "family": "Lutjanidae",
+      "genus": "Lutjanus",
+      "species": "Lutjanus argentimaculatus",
+      "common_name": "Red Snapper"
+    },
+    "morphometrics": {
+      "total_length_mm": 235.4,
+      "standard_length_mm": 135.7,
+      "weight_g": 443.0,
+      "head_length_mm": 32.8,
+      "eye_diameter_mm": 4.7
+    },
+    "collection_info": {
+      "collector": "Ms. Patel",
+      "location": {
+        "coordinates": [17.5179, 68.0033],
+        "depth_m": null,
+        "region": "Indian Ocean"
+      },
+      "method": "unknown"
+    },
+    "otolith_data": {
+      "left_otolith": {
+        "length_mm": null,
+        "width_mm": 8.78,
+        "weight_mg": 49.255,
+        "shape_descriptors": {}
+      },
+      "right_otolith": {
+        "length_mm": 15.31,
+        "width_mm": 6.65,
+        "weight_mg": 51.753
+      }
+    },
+    "genetic_data": {
+      "dna_extracted": null,
+      "sequence_available": null,
+      "genbank_id": "MZ698388",
+      "marker_genes": []
+    },
+    "data_quality": {
+      "identification_confidence": "medium",
+      "preservation_state": "excellent",
+      "verified_by": "taxonomist"
+    }
+  },
+  {
+    "specimen_id": "SPEC_88cfa0d8-1",
+    "collection_date": "2025-04-29T12:52:07.918214",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Actinopterygii",
+      "order": "Perciformes",
+      "family": "Scombridae",
+      "genus": "Scomberomorus",
+      "species": "Scomberomorus commerson",
+      "common_name": "Kingfish"
+    },
+    "morphometrics": {
+      "total_length_mm": 294.1,
+      "standard_length_mm": 228.9,
+      "weight_g": 284.87,
+      "head_length_mm": 47.2,
+      "eye_diameter_mm": 9.1
+    },
+    "collection_info": {
+      "collector": "Dr. Nair",
+      "location": {
+        "coordinates": [7.1029, 74.7966],
+        "depth_m": 380,
+        "region": "Arabian Sea"
+      },
+      "method": null
+    },
+    "otolith_data": {
+      "left_otolith": {
+        "length_mm": 12.03,
+        "width_mm": 1.74,
+        "weight_mg": 48.21,
+        "shape_descriptors": {
+          "circularity": 0.846,
+          "roundness": "",
+          "aspect_ratio": 1.778
+        }
+      },
+      "right_otolith": {
+        "length_mm": 21.17,
+        "width_mm": 6.86,
+        "weight_mg": 30.167
+      }
+    },
+    "genetic_data": {
+      "dna_extracted": null,
+      "sequence_available": false,
+      "genbank_id": "MZ555401",
+      "marker_genes": ["COI", "16S", "12S"]
+    },
+    "data_quality": {
+      "identification_confidence": "high",
+      "preservation_state": "good",
+      "verified_by": null
+    }
+  },
+  {
+    "specimen_id": "SPEC_0eea5de2-4",
+    "collection_date": "2025-07-24T12:52:07.918316",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Actinopterygii",
+      "order": "Clupeiformes",
+      "family": "Engraulidae",
+      "genus": "Stolephorus",
+      "species": "Stolephorus indicus",
+      "common_name": "Anchovy"
+    },
+    "morphometrics": {
+      "total_length_mm": 279.9,
+      "standard_length_mm": "missing",
+      "weight_g": 512.48,
+      "head_length_mm": 62.9,
+      "eye_diameter_mm": 4.2
+    },
+    "collection_info": {
+      "collector": "",
+      "location": {
+        "coordinates": [14.3732, 70.6044],
+        "depth_m": 206,
+        "region": "Lakshadweep"
+      },
+      "method": "unknown"
+    },
+    "otolith_data": {
+      "left_otolith": {
+        "length_mm": 14.93,
+        "width_mm": "",
+        "weight_mg": 56.808,
+        "shape_descriptors": {
+          "circularity": null,
+          "roundness": 0.643,
+          "aspect_ratio": 1.871
+        }
+      },
+      "right_otolith": {
+        "length_mm": 11.52,
+        "width_mm": 8.88,
+        "weight_mg": 63.56
+      }
+    },
+    "genetic_data": {
+      "dna_extracted": false,
+      "sequence_available": true,
+      "genbank_id": "MZ307731",
+      "marker_genes": ["COI", "16S", "12S"]
+    },
+    "data_quality": {
+      "identification_confidence": "uncertain",
+      "preservation_state": null,
+      "verified_by": "molecular"
+    }
+  },
+  {
+    "specimen_id": "SPEC_46babd4d-4",
+    "collection_date": "2025-01-08T12:52:07.918401",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Actinopterygii",
+      "order": "Perciformes",
+      "family": "Sphyraenidae",
+      "genus": "Sphyraena",
+      "species": "Sphyraena jello",
+      "common_name": "Barracuda"
+    },
+    "morphometrics": {
+      "total_length_mm": 319.8,
+      "standard_length_mm": 125.7,
+      "weight_g": 614.03,
+      "head_length_mm": 44.0,
+      "eye_diameter_mm": 8.2
+    },
+    "collection_info": {
+      "collector": "",
+      "location": {
+        "coordinates": [7.0751, 79.4197],
+        "depth_m": 183,
+        "region": "Bay of Bengal"
+      },
+      "method": "gillnet"
+    },
+    "otolith_data": {
+      "left_otolith": {
+        "length_mm": 12.29,
+        "width_mm": 7.55,
+        "weight_mg": 68.834,
+        "shape_descriptors": {
+          "circularity": 0.846,
+          "roundness": 0.687,
+          "aspect_ratio": 1.596
+        }
+      },
+      "right_otolith": {
+        "length_mm": 11.76,
+        "width_mm": 4.65,
+        "weight_mg": 36.523
+      }
+    },
+    "genetic_data": {
+      "dna_extracted": true,
+      "sequence_available": true,
+      "genbank_id": "MZ354854",
+      "marker_genes": []
+    },
+    "data_quality": {
+      "identification_confidence": "medium",
+      "preservation_state": "fair",
+      "verified_by": "taxonomist"
+    }
+  },
+  {
+    "specimen_id": "SPEC_18cd2718-3",
+    "collection_date": "2024-11-09T12:52:07.918491",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Actinopterygii",
+      "order": "Perciformes",
+      "family": "Stromateidae",
+      "genus": "Pampus",
+      "species": "Pampus argenteus",
+      "common_name": "Pomfret"
+    },
+    "morphometrics": {
+      "total_length_mm": 264.3,
+      "standard_length_mm": "missing",
+      "weight_g": 695.84,
+      "head_length_mm": 54.0,
+      "eye_diameter_mm": 5.4
+    },
+    "collection_info": {
+      "collector": "Prof. Kumar",
+      "location": {
+        "coordinates": [12.5571, 80.756],
+        "depth_m": 323,
+        "region": "Bay of Bengal"
+      },
+      "method": null
+    },
+    "otolith_data": {
+      "left_otolith": {
+        "length_mm": 21.94,
+        "width_mm": "",
+        "weight_mg": 50.296,
+        "shape_descriptors": {
+          "circularity": null,
+          "roundness": 0.585,
+          "aspect_ratio": 1.91
+        }
+      },
+      "right_otolith": {
+        "length_mm": "missing",
+        "width_mm": 11.6,
+        "weight_mg": -999
+      }
+    },
+    "genetic_data": {
+      "dna_extracted": "yes",
+      "sequence_available": null,
+      "genbank_id": null,
+      "marker_genes": null
+    },
+    "data_quality": {
+      "identification_confidence": "low",
+      "preservation_state": "excellent",
+      "verified_by": "taxonomist"
+    }
+  },
+  {
+    "specimen_id": "SPEC_c8116f81-7",
+    "collection_date": "2025-01-24T12:52:07.918578",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Actinopterygii",
+      "order": "Clupeiformes",
+      "family": "Engraulidae",
+      "genus": "Stolephorus",
+      "species": "Stolephorus indicus",
+      "common_name": "Anchovy"
+    },
+    "morphometrics": {
+      "total_length_mm": 237.9,
+      "standard_length_mm": 234.7,
+      "weight_g": 617.89,
+      "head_length_mm": 63.3,
+      "eye_diameter_mm": 11.2
+    },
+    "collection_info": {
+      "collector": "Ms. Patel",
+      "location": {
+        "coordinates": [16.4013, 77.0365],
+        "depth_m": 261,
+        "region": "Lakshadweep"
+      },
+      "method": "unknown"
+    },
+    "otolith_data": {
+      "left_otolith": {
+        "length_mm": 15.49,
+        "width_mm": "",
+        "weight_mg": 38.698,
+        "shape_descriptors": {
+          "circularity": 0.718,
+          "roundness": 0.604,
+          "aspect_ratio": 1.517
+        }
+      },
+      "right_otolith": {
+        "length_mm": 9.76,
+        "width_mm": 8.86,
+        "weight_mg": 61.729
+      }
+    },
+    "genetic_data": {
+      "dna_extracted": true,
+      "sequence_available": null,
+      "genbank_id": null,
+      "marker_genes": ["COI", "16S", "12S"]
+    },
+    "data_quality": {
+      "identification_confidence": "high",
+      "preservation_state": null,
+      "verified_by": "morphology"
+    }
+  },
+  {
+    "specimen_id": "SPEC_b2b04283-8",
+    "collection_date": "2023-03-14T12:52:07.918669",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Actinopterygii",
+      "order": "Clupeiformes",
+      "family": "Clupeidae",
+      "genus": "Sardinella",
+      "species": "Sardinella longiceps",
+      "common_name": "Sardine"
+    },
+    "morphometrics": {
+      "total_length_mm": 232.2,
+      "standard_length_mm": 269.2,
+      "weight_g": 740.52,
+      "head_length_mm": 31.3,
+      "eye_diameter_mm": 5.5
+    },
+    "collection_info": {
+      "collector": "Unknown",
+      "location": {
+        "coordinates": [13.3494, 78.6339],
+        "depth_m": 128,
+        "region": ""
+      },
+      "method": "hook_line"
+    },
+    "otolith_data": {
+      "left_otolith": {
+        "length_mm": 11.44,
+        "width_mm": 8.92,
+        "weight_mg": 34.509,
+        "shape_descriptors": {
+          "circularity": null,
+          "roundness": 0.674,
+          "aspect_ratio": 1.816
+        }
+      },
+      "right_otolith": {
+        "length_mm": 17.64,
+        "width_mm": 9.13,
+        "weight_mg": 44.749
+      }
+    },
+    "genetic_data": {
+      "dna_extracted": false,
+      "sequence_available": false,
+      "genbank_id": "MZ907455",
+      "marker_genes": ["COI"]
+    },
+    "data_quality": {
+      "identification_confidence": "",
+      "preservation_state": "good",
+      "verified_by": "morphology"
+    }
+  },
+  {
+    "specimen_id": "SPEC_73ff234f-0",
+    "collection_date": "2023-01-20T12:52:07.918765",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Actinopterygii",
+      "order": "Perciformes",
+      "family": "Sphyraenidae",
+      "genus": "Sphyraena",
+      "species": "Sphyraena jello",
+      "common_name": "Barracuda"
+    },
+    "morphometrics": {
+      "total_length_mm": 135.1,
+      "standard_length_mm": 114.5,
+      "weight_g": 506.2,
+      "head_length_mm": 13.0,
+      "eye_diameter_mm": 11.0
+    },
+    "collection_info": {
+      "collector": "Dr. Sharma",
+      "location": {
+        "coordinates": [15.1852, 82.9622],
+        "depth_m": 215,
+        "region": "Indian Ocean"
+      },
+      "method": "purse_seine"
+    },
+    "otolith_data": {
+      "left_otolith": {
+        "length_mm": 11.37,
+        "width_mm": 17.73,
+        "weight_mg": 91.158,
+        "shape_descriptors": {
+          "circularity": 0.656,
+          "roundness": 0.508,
+          "aspect_ratio": 2.087
+        }
+      },
+      "right_otolith": {
+        "length_mm": 11.36,
+        "width_mm": 7.59,
+        "weight_mg": 62.916
+      }
+    },
+    "genetic_data": {
+      "dna_extracted": false,
+      "sequence_available": null,
+      "genbank_id": null,
+      "marker_genes": ["COI", "16S"]
+    },
+    "data_quality": {
+      "identification_confidence": "uncertain",
+      "preservation_state": "good",
+      "verified_by": null
+    }
+  },
+  {
+    "specimen_id": "SPEC_2cbe94ae-9",
+    "collection_date": "2023-09-19T12:52:07.918855",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Actinopterygii",
+      "order": "Perciformes",
+      "family": "Serranidae",
+      "genus": "Epinephelus",
+      "species": "Epinephelus malabaricus",
+      "common_name": "Grouper"
+    },
+    "morphometrics": {
+      "total_length_mm": 386.3,
+      "standard_length_mm": 93.5,
+      "weight_g": 92.72,
+      "head_length_mm": 35.7,
+      "eye_diameter_mm": 9.7
+    },
+    "collection_info": {
+      "collector": "Prof. Kumar",
+      "location": {
+        "coordinates": [8.3191, 68.5479],
+        "depth_m": 12,
+        "region": "Indian Ocean"
+      },
+      "method": "purse_seine"
+    },
+    "otolith_data": {
+      "left_otolith": {
+        "length_mm": 13.99,
+        "width_mm": 11.21,
+        "weight_mg": 21.006,
+        "shape_descriptors": {
+          "circularity": 0.886,
+          "roundness": 0.685,
+          "aspect_ratio": 1.819
+        }
+      },
+      "right_otolith": {
+        "length_mm": 2.6,
+        "width_mm": 10.39,
+        "weight_mg": 28.264
+      }
+    },
+    "genetic_data": {
+      "dna_extracted": "no",
+      "sequence_available": null,
+      "genbank_id": "MZ855185",
+      "marker_genes": ["16S", "12S"]
+    },
+    "data_quality": {
+      "identification_confidence": "uncertain",
+      "preservation_state": null,
+      "verified_by": null
+    }
+  },
+  {
+    "specimen_id": "SPEC_e0274f45-a",
+    "collection_date": "2023-12-01T12:52:07.918990",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Actinopterygii",
+      "order": "Perciformes",
+      "family": "Sphyraenidae",
+      "genus": "Sphyraena",
+      "species": "Sphyraena jello",
+      "common_name": "Barracuda"
+    },
+    "morphometrics": {
+      "total_length_mm": 88.5,
+      "standard_length_mm": 209.4,
+      "weight_g": 608.64,
+      "head_length_mm": 43.2,
+      "eye_diameter_mm": 6.6
+    },
+    "collection_info": {
+      "collector": "Dr. Sharma",
+      "location": {
+        "coordinates": [16.5334, 72.1773],
+        "depth_m": 381,
+        "region": "Arabian Sea"
+      },
+      "method": "unknown"
+    },
+    "otolith_data": {
+      "left_otolith": {
+        "length_mm": 11.36,
+        "width_mm": 6.89,
+        "weight_mg": 18.039,
+        "shape_descriptors": {
+          "circularity": 0.865,
+          "roundness": 0.586,
+          "aspect_ratio": 1.35
+        }
+      },
+      "right_otolith": {
+        "length_mm": 9.17,
+        "width_mm": 9.41,
+        "weight_mg": 50.112
+      }
+    },
+    "genetic_data": {
+      "dna_extracted": "yes",
+      "sequence_available": null,
+      "genbank_id": "MZ857750",
+      "marker_genes": []
+    },
+    "data_quality": {
+      "identification_confidence": "high",
+      "preservation_state": "good",
+      "verified_by": null
+    }
+  },
+  {
+    "specimen_id": "SPEC_27f70792-2",
+    "collection_date": "2025-05-02T12:52:07.919084",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Actinopterygii",
+      "order": "Perciformes",
+      "family": "Sphyraenidae",
+      "genus": "Sphyraena",
+      "species": "Sphyraena jello",
+      "common_name": "Barracuda"
+    },
+    "morphometrics": {
+      "total_length_mm": 263.4,
+      "standard_length_mm": 135.3,
+      "weight_g": "",
+      "head_length_mm": 42.3,
+      "eye_diameter_mm": 1.5
+    },
+    "collection_info": {
+      "collector": "Unknown",
+      "location": {
+        "coordinates": [16.7495, 83.0033],
+        "depth_m": 170,
+        "region": "Bay of Bengal"
+      },
+      "method": null
+    },
+    "otolith_data": {
+      "left_otolith": {
+        "length_mm": 12.71,
+        "width_mm": "",
+        "weight_mg": 73.577,
+        "shape_descriptors": {
+          "circularity": null,
+          "roundness": 0.718,
+          "aspect_ratio": 2.078
+        }
+      },
+      "right_otolith": {
+        "length_mm": 6.06,
+        "width_mm": 6.2,
+        "weight_mg": -999
+      }
+    },
+    "genetic_data": {
+      "dna_extracted": false,
+      "sequence_available": false,
+      "genbank_id": "MZ791567",
+      "marker_genes": ["COI"]
+    },
+    "data_quality": {
+      "identification_confidence": "medium",
+      "preservation_state": "good",
+      "verified_by": "molecular"
+    }
+  },
+  {
+    "specimen_id": "SPEC_03745f61-4",
+    "collection_date": "2024-07-15T12:52:07.919171",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Actinopterygii",
+      "order": "Perciformes",
+      "family": "Scombridae",
+      "genus": "Rastrelliger",
+      "species": "Rastrelliger kanagurta",
+      "common_name": "Indian Mackerel"
+    },
+    "morphometrics": {
+      "total_length_mm": 276.3,
+      "standard_length_mm": 281.4,
+      "weight_g": 360.36,
+      "head_length_mm": 34.6,
+      "eye_diameter_mm": 2.1
+    },
+    "collection_info": {
+      "collector": "Prof. Kumar",
+      "location": {
+        "coordinates": [7.4106, 70.2367],
+        "depth_m": 323,
+        "region": "Indian Ocean"
+      },
+      "method": "trawl"
+    },
+    "otolith_data": {
+      "left_otolith": {
+        "length_mm": 12.41,
+        "width_mm": 14.13,
+        "weight_mg": 50.547,
+        "shape_descriptors": {}
+      },
+      "right_otolith": {
+        "length_mm": 12.01,
+        "width_mm": 8.83,
+        "weight_mg": 43.789
+      }
+    },
+    "genetic_data": {
+      "dna_extracted": "yes",
+      "sequence_available": false,
+      "genbank_id": null,
+      "marker_genes": []
+    },
+    "data_quality": {
+      "identification_confidence": "high",
+      "preservation_state": "good",
+      "verified_by": null
+    }
+  },
+  {
+    "specimen_id": "SPEC_4d8c8cd0-c",
+    "collection_date": "2023-06-01T12:52:07.919282",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Actinopterygii",
+      "order": "Perciformes",
+      "family": "Sphyraenidae",
+      "genus": "Sphyraena",
+      "species": "Sphyraena jello",
+      "common_name": "Barracuda"
+    },
+    "morphometrics": {
+      "total_length_mm": 185.0,
+      "standard_length_mm": "missing",
+      "weight_g": 614.66,
+      "head_length_mm": 48.4,
+      "eye_diameter_mm": 8.1
+    },
+    "collection_info": {
+      "collector": "Dr. Sharma",
+      "location": {
+        "coordinates": [7.7445, 68.5513],
+        "depth_m": 313,
+        "region": "Indian Ocean"
+      },
+      "method": "gillnet"
+    },
+    "otolith_data": {
+      "left_otolith": {
+        "length_mm": 8.1,
+        "width_mm": "",
+        "weight_mg": 71.07,
+        "shape_descriptors": {
+          "circularity": 0.783,
+          "roundness": 0.678,
+          "aspect_ratio": 1.909
+        }
+      },
+      "right_otolith": {
+        "length_mm": 14.83,
+        "width_mm": 6.3,
+        "weight_mg": 63.035
+      }
+    },
+    "genetic_data": {
+      "dna_extracted": true,
+      "sequence_available": false,
+      "genbank_id": "MZ497346",
+      "marker_genes": ["COI", "16S"]
+    },
+    "data_quality": {
+      "identification_confidence": "uncertain",
+      "preservation_state": null,
+      "verified_by": "taxonomist"
+    }
+  },
+  {
+    "specimen_id": "SPEC_99e34f7e-d",
+    "collection_date": "2025-05-16T12:52:07.919380",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Actinopterygii",
+      "order": "Perciformes",
+      "family": "Scombridae",
+      "genus": "Scomberomorus",
+      "species": "Scomberomorus commerson",
+      "common_name": "Kingfish"
+    },
+    "morphometrics": {
+      "total_length_mm": 210.2,
+      "standard_length_mm": 149.2,
+      "weight_g": 298.06,
+      "head_length_mm": 18.4,
+      "eye_diameter_mm": 9.4
+    },
+    "collection_info": {
+      "collector": "Unknown",
+      "location": {
+        "coordinates": [8.5086, 68.9891],
+        "depth_m": 327,
+        "region": ""
+      },
+      "method": "trawl"
+    },
+    "otolith_data": {
+      "left_otolith": {
+        "length_mm": 4.68,
+        "width_mm": 4.31,
+        "weight_mg": 3.488,
+        "shape_descriptors": {
+          "circularity": 0.783,
+          "roundness": 0.658,
+          "aspect_ratio": 2.096
+        }
+      },
+      "right_otolith": {
+        "length_mm": 11.75,
+        "width_mm": 7.46,
+        "weight_mg": 37.793
+      }
+    },
+    "genetic_data": {
+      "dna_extracted": "yes",
+      "sequence_available": false,
+      "genbank_id": "MZ739008",
+      "marker_genes": ["COI"]
+    },
+    "data_quality": {
+      "identification_confidence": "low",
+      "preservation_state": "good",
+      "verified_by": "taxonomist"
+    }
+  },
+  {
+    "specimen_id": "SPEC_d2fff899-1",
+    "collection_date": "2023-12-17T12:52:07.919469",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Actinopterygii",
+      "order": "Perciformes",
+      "family": "Serranidae",
+      "genus": "Epinephelus",
+      "species": "Epinephelus malabaricus",
+      "common_name": "Grouper"
+    },
+    "morphometrics": {
+      "total_length_mm": 166.6,
+      "standard_length_mm": 123.8,
+      "weight_g": 542.87,
+      "head_length_mm": 36.7,
+      "eye_diameter_mm": 8.9
+    },
+    "collection_info": {
+      "collector": "Ms. Patel",
+      "location": {
+        "coordinates": [10.9685, 73.6745],
+        "depth_m": 331,
+        "region": "Bay of Bengal"
+      },
+      "method": "trawl"
+    },
+    "otolith_data": {
+      "left_otolith": {
+        "length_mm": 8.46,
+        "width_mm": 8.54,
+        "weight_mg": 71.066,
+        "shape_descriptors": {
+          "circularity": 0.765,
+          "roundness": 0.534,
+          "aspect_ratio": 1.5
+        }
+      },
+      "right_otolith": {
+        "length_mm": 14.5,
+        "width_mm": 6.7,
+        "weight_mg": 48.887
+      }
+    },
+    "genetic_data": {
+      "dna_extracted": false,
+      "sequence_available": false,
+      "genbank_id": "MZ805139",
+      "marker_genes": ["COI", "16S", "12S"]
+    },
+    "data_quality": {
+      "identification_confidence": "uncertain",
+      "preservation_state": "excellent",
+      "verified_by": "molecular"
+    }
+  },
+  {
+    "specimen_id": "SPEC_2ad0c2ad-c",
+    "collection_date": "2023-03-19T12:52:07.919616",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Actinopterygii",
+      "order": "Perciformes",
+      "family": "Serranidae",
+      "genus": "Epinephelus",
+      "species": "Epinephelus malabaricus",
+      "common_name": "Grouper"
+    },
+    "morphometrics": {
+      "total_length_mm": 230.7,
+      "standard_length_mm": 200.5,
+      "weight_g": 384.88,
+      "head_length_mm": 42.5,
+      "eye_diameter_mm": 8.6
+    },
+    "collection_info": {
+      "collector": "Unknown",
+      "location": {
+        "coordinates": [6.6723, 76.8582],
+        "depth_m": 352,
+        "region": "Indian Ocean"
+      },
+      "method": "unknown"
+    },
+    "otolith_data": {
+      "left_otolith": {
+        "length_mm": 8.03,
+        "width_mm": 4.95,
+        "weight_mg": 17.229,
+        "shape_descriptors": {
+          "circularity": 0.706,
+          "roundness": 0.584,
+          "aspect_ratio": 1.228
+        }
+      },
+      "right_otolith": {
+        "length_mm": 5.54,
+        "width_mm": 4.37,
+        "weight_mg": 47.03
+      }
+    },
+    "genetic_data": {
+      "dna_extracted": "yes",
+      "sequence_available": true,
+      "genbank_id": "MZ920347",
+      "marker_genes": ["16S", "12S"]
+    },
+    "data_quality": {
+      "identification_confidence": "low",
+      "preservation_state": "excellent",
+      "verified_by": "morphology"
+    }
+  },
+  {
+    "specimen_id": "SPEC_f87bad2a-3",
+    "collection_date": "2023-04-03T12:52:07.919710",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Actinopterygii",
+      "order": "Perciformes",
+      "family": "Serranidae",
+      "genus": "Epinephelus",
+      "species": "Epinephelus malabaricus",
+      "common_name": "Grouper"
+    },
+    "morphometrics": {
+      "total_length_mm": 178.6,
+      "standard_length_mm": 233.4,
+      "weight_g": 456.94,
+      "head_length_mm": 15.5,
+      "eye_diameter_mm": 10.0
+    },
+    "collection_info": {
+      "collector": "Dr. Nair",
+      "location": {
+        "coordinates": [8.1002, 74.3617],
+        "depth_m": null,
+        "region": "Bay of Bengal"
+      },
+      "method": "trawl"
+    },
+    "otolith_data": {
+      "left_otolith": {
+        "length_mm": 15.24,
+        "width_mm": "",
+        "weight_mg": 25.123,
+        "shape_descriptors": {
+          "circularity": 0.877,
+          "roundness": 0.657,
+          "aspect_ratio": 1.898
+        }
+      },
+      "right_otolith": {
+        "length_mm": 13.82,
+        "width_mm": 5.42,
+        "weight_mg": 45.856
+      }
+    },
+    "genetic_data": {
+      "dna_extracted": false,
+      "sequence_available": true,
+      "genbank_id": "MZ581682",
+      "marker_genes": ["COI", "16S", "12S"]
+    },
+    "data_quality": {
+      "identification_confidence": "",
+      "preservation_state": "excellent",
+      "verified_by": "taxonomist"
+    }
+  },
+  {
+    "specimen_id": "SPEC_92c55315-9",
+    "collection_date": "2023-10-15T12:52:07.919808",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Actinopterygii",
+      "order": "Perciformes",
+      "family": "Scombridae",
+      "genus": "Rastrelliger",
+      "species": "Rastrelliger kanagurta",
+      "common_name": "Indian Mackerel"
+    },
+    "morphometrics": {
+      "total_length_mm": 148.8,
+      "standard_length_mm": 83.4,
+      "weight_g": 373.44,
+      "head_length_mm": 43.1,
+      "eye_diameter_mm": 6.8
+    },
+    "collection_info": {
+      "collector": "Dr. Sharma",
+      "location": {
+        "coordinates": [12.2469, 79.2027],
+        "depth_m": 300,
+        "region": "Indian Ocean"
+      },
+      "method": null
+    },
+    "otolith_data": {
+      "left_otolith": {
+        "length_mm": 7.26,
+        "width_mm": 6.8,
+        "weight_mg": 50.386,
+        "shape_descriptors": {
+          "circularity": 0.732,
+          "roundness": "",
+          "aspect_ratio": 1.334
+        }
+      },
+      "right_otolith": {
+        "length_mm": "missing",
+        "width_mm": 7.77,
+        "weight_mg": 47.468
+      }
+    },
+    "genetic_data": {
+      "dna_extracted": false,
+      "sequence_available": null,
+      "genbank_id": "MZ433955",
+      "marker_genes": ["16S", "12S"]
+    },
+    "data_quality": {
+      "identification_confidence": "medium",
+      "preservation_state": "fair",
+      "verified_by": null
+    }
+  },
+  {
+    "specimen_id": "SPEC_272e4b3a-9",
+    "collection_date": "2024-11-03T12:52:07.919895",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Actinopterygii",
+      "order": "Perciformes",
+      "family": "Stromateidae",
+      "genus": "Pampus",
+      "species": "Pampus argenteus",
+      "common_name": "Pomfret"
+    },
+    "morphometrics": {
+      "total_length_mm": 196.4,
+      "standard_length_mm": 276.2,
+      "weight_g": 214.77,
+      "head_length_mm": 52.3,
+      "eye_diameter_mm": 11.5
+    },
+    "collection_info": {
+      "collector": "Ms. Patel",
+      "location": {
+        "coordinates": [16.8395, 68.8578],
+        "depth_m": 49,
+        "region": "Lakshadweep"
+      },
+      "method": "purse_seine"
+    },
+    "otolith_data": {
+      "left_otolith": {
+        "length_mm": 13.92,
+        "width_mm": 7.39,
+        "weight_mg": 34.434,
+        "shape_descriptors": {
+          "circularity": 0.785,
+          "roundness": 0.745,
+          "aspect_ratio": 1.842
+        }
+      },
+      "right_otolith": {
+        "length_mm": 16.35,
+        "width_mm": 3.77,
+        "weight_mg": 25.568
+      }
+    },
+    "genetic_data": {
+      "dna_extracted": "yes",
+      "sequence_available": null,
+      "genbank_id": null,
+      "marker_genes": null
+    },
+    "data_quality": {
+      "identification_confidence": "uncertain",
+      "preservation_state": "excellent",
+      "verified_by": ""
+    }
+  },
+  {
+    "specimen_id": "SPEC_858f2b3f-5",
+    "collection_date": "2024-05-24T12:52:07.920016",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Actinopterygii",
+      "order": "Perciformes",
+      "family": "Serranidae",
+      "genus": "Epinephelus",
+      "species": "Epinephelus malabaricus",
+      "common_name": "Grouper"
+    },
+    "morphometrics": {
+      "total_length_mm": 218.2,
+      "standard_length_mm": 280.4,
+      "weight_g": 525.95,
+      "head_length_mm": 30.5,
+      "eye_diameter_mm": 7.1
+    },
+    "collection_info": {
+      "collector": "Dr. Nair",
+      "location": {
+        "coordinates": [10.7049, 79.8934],
+        "depth_m": 408,
+        "region": "Indian Ocean"
+      },
+      "method": "purse_seine"
+    },
+    "otolith_data": {
+      "left_otolith": {
+        "length_mm": 9.54,
+        "width_mm": "",
+        "weight_mg": 30.804,
+        "shape_descriptors": {
+          "circularity": 0.685,
+          "roundness": 0.672,
+          "aspect_ratio": 1.657
+        }
+      },
+      "right_otolith": {
+        "length_mm": 16.11,
+        "width_mm": 3.92,
+        "weight_mg": 74.567
+      }
+    },
+    "genetic_data": {
+      "dna_extracted": true,
+      "sequence_available": false,
+      "genbank_id": "MZ520286",
+      "marker_genes": []
+    },
+    "data_quality": {
+      "identification_confidence": "uncertain",
+      "preservation_state": "good",
+      "verified_by": null
+    }
+  },
+  {
+    "specimen_id": "SPEC_da16203c-5",
+    "collection_date": "2022-12-25T12:52:07.920107",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Actinopterygii",
+      "order": "Perciformes",
+      "family": "Scombridae",
+      "genus": "Scomberomorus",
+      "species": "Scomberomorus commerson",
+      "common_name": "Kingfish"
+    },
+    "morphometrics": {
+      "total_length_mm": 316.3,
+      "standard_length_mm": "missing",
+      "weight_g": 668.17,
+      "head_length_mm": 38.1,
+      "eye_diameter_mm": 7.6
+    },
+    "collection_info": {
+      "collector": "Ms. Patel",
+      "location": {
+        "coordinates": [15.4118, 75.401],
+        "depth_m": 283,
+        "region": "Bay of Bengal"
+      },
+      "method": "hook_line"
+    },
+    "otolith_data": {
+      "left_otolith": {
+        "length_mm": 6.27,
+        "width_mm": "",
+        "weight_mg": 34.507,
+        "shape_descriptors": {
+          "circularity": 0.778,
+          "roundness": 0.667,
+          "aspect_ratio": 1.94
+        }
+      },
+      "right_otolith": {
+        "length_mm": 14.12,
+        "width_mm": null,
+        "weight_mg": 68.625
+      }
+    },
+    "genetic_data": {
+      "dna_extracted": "no",
+      "sequence_available": false,
+      "genbank_id": "MZ776320",
+      "marker_genes": null
+    },
+    "data_quality": {
+      "identification_confidence": "high",
+      "preservation_state": "excellent",
+      "verified_by": "molecular"
+    }
+  },
+  {
+    "specimen_id": "SPEC_72fe25c5-7",
+    "collection_date": "2023-03-08T12:52:07.920193",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Actinopterygii",
+      "order": "Perciformes",
+      "family": "Sciaenidae",
+      "genus": "Johnius",
+      "species": "Johnius belangerii",
+      "common_name": "Croaker"
+    },
+    "morphometrics": {
+      "total_length_mm": 161.4,
+      "standard_length_mm": 176.2,
+      "weight_g": 419.74,
+      "head_length_mm": 24.1,
+      "eye_diameter_mm": 9.8
+    },
+    "collection_info": {
+      "collector": "Ms. Patel",
+      "location": {
+        "coordinates": [12.3751, 74.6297],
+        "depth_m": 105,
+        "region": "Bay of Bengal"
+      },
+      "method": null
+    },
+    "otolith_data": {
+      "left_otolith": {
+        "length_mm": 9.1,
+        "width_mm": 7.41,
+        "weight_mg": 35.961,
+        "shape_descriptors": {
+          "circularity": 0.881,
+          "roundness": 0.775,
+          "aspect_ratio": 2.091
+        }
+      },
+      "right_otolith": {
+        "length_mm": 8.86,
+        "width_mm": 7.88,
+        "weight_mg": 39.903
+      }
+    },
+    "genetic_data": {
+      "dna_extracted": null,
+      "sequence_available": true,
+      "genbank_id": "MZ675547",
+      "marker_genes": ["COI", "16S"]
+    },
+    "data_quality": {
+      "identification_confidence": "high",
+      "preservation_state": null,
+      "verified_by": "morphology"
+    }
+  },
+  {
+    "specimen_id": "SPEC_9b5fcf12-5",
+    "collection_date": "2023-04-15T12:52:07.920286",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Actinopterygii",
+      "order": "Perciformes",
+      "family": "Scombridae",
+      "genus": "Thunnus",
+      "species": "Thunnus albacares",
+      "common_name": "Tuna"
+    },
+    "morphometrics": {
+      "total_length_mm": null,
+      "standard_length_mm": 175.8,
+      "weight_g": 304.31,
+      "head_length_mm": 49.8,
+      "eye_diameter_mm": 13.0
+    },
+    "collection_info": {
+      "collector": "Unknown",
+      "location": {
+        "coordinates": [10.5935, 74.4866],
+        "depth_m": 344,
+        "region": "Bay of Bengal"
+      },
+      "method": "purse_seine"
+    },
+    "otolith_data": {
+      "left_otolith": {
+        "length_mm": 12.56,
+        "width_mm": 10.99,
+        "weight_mg": 17.196,
+        "shape_descriptors": {
+          "circularity": 0.687,
+          "roundness": 0.538,
+          "aspect_ratio": 1.21
+        }
+      },
+      "right_otolith": {
+        "length_mm": 12.75,
+        "width_mm": 4.72,
+        "weight_mg": 15.938
+      }
+    },
+    "genetic_data": {
+      "dna_extracted": false,
+      "sequence_available": true,
+      "genbank_id": null,
+      "marker_genes": ["COI", "16S", "12S"]
+    },
+    "data_quality": {
+      "identification_confidence": "uncertain",
+      "preservation_state": null,
+      "verified_by": ""
+    }
+  },
+  {
+    "specimen_id": "SPEC_b5b97cf9-5",
+    "collection_date": "2024-04-14T12:52:07.920376",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Actinopterygii",
+      "order": "Perciformes",
+      "family": "Serranidae",
+      "genus": "Epinephelus",
+      "species": "Epinephelus malabaricus",
+      "common_name": "Grouper"
+    },
+    "morphometrics": {
+      "total_length_mm": 190.9,
+      "standard_length_mm": 277.5,
+      "weight_g": 640.0,
+      "head_length_mm": 48.6,
+      "eye_diameter_mm": 3.4
+    },
+    "collection_info": {
+      "collector": "Ms. Patel",
+      "location": {
+        "coordinates": [13.2549, 77.825],
+        "depth_m": 126,
+        "region": ""
+      },
+      "method": "gillnet"
+    },
+    "otolith_data": {
+      "left_otolith": {
+        "length_mm": 11.21,
+        "width_mm": 8.91,
+        "weight_mg": 48.511,
+        "shape_descriptors": {
+          "circularity": 0.811,
+          "roundness": "",
+          "aspect_ratio": 1.633
+        }
+      },
+      "right_otolith": {
+        "length_mm": 4.54,
+        "width_mm": 5.32,
+        "weight_mg": 42.783
+      }
+    },
+    "genetic_data": {
+      "dna_extracted": null,
+      "sequence_available": false,
+      "genbank_id": "MZ648779",
+      "marker_genes": []
+    },
+    "data_quality": {
+      "identification_confidence": "high",
+      "preservation_state": "good",
+      "verified_by": ""
+    }
+  },
+  {
+    "specimen_id": "SPEC_8a8e0ee0-2",
+    "collection_date": "2023-10-18T12:52:07.920466",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Actinopterygii",
+      "order": "Perciformes",
+      "family": "Stromateidae",
+      "genus": "Pampus",
+      "species": "Pampus argenteus",
+      "common_name": "Pomfret"
+    },
+    "morphometrics": {
+      "total_length_mm": 292.9,
+      "standard_length_mm": 57.3,
+      "weight_g": 417.58,
+      "head_length_mm": 47.1,
+      "eye_diameter_mm": -1
+    },
+    "collection_info": {
+      "collector": "Dr. Nair",
+      "location": {
+        "coordinates": [12.4204, 68.1833],
+        "depth_m": 468,
+        "region": "Lakshadweep"
+      },
+      "method": "unknown"
+    },
+    "otolith_data": {
+      "left_otolith": {
+        "length_mm": 15.4,
+        "width_mm": 10.08,
+        "weight_mg": 56.651,
+        "shape_descriptors": {
+          "circularity": 0.611,
+          "roundness": 0.725,
+          "aspect_ratio": 1.854
+        }
+      },
+      "right_otolith": {
+        "length_mm": "missing",
+        "width_mm": 5.58,
+        "weight_mg": 7.748
+      }
+    },
+    "genetic_data": {
+      "dna_extracted": true,
+      "sequence_available": null,
+      "genbank_id": "MZ948188",
+      "marker_genes": null
+    },
+    "data_quality": {
+      "identification_confidence": "",
+      "preservation_state": "excellent",
+      "verified_by": "morphology"
+    }
+  },
+  {
+    "specimen_id": "SPEC_9a32a042-9",
+    "collection_date": "2024-04-18T12:52:07.920551",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Actinopterygii",
+      "order": "Perciformes",
+      "family": "Scombridae",
+      "genus": "Scomberomorus",
+      "species": "Scomberomorus commerson",
+      "common_name": "Kingfish"
+    },
+    "morphometrics": {
+      "total_length_mm": 218.6,
+      "standard_length_mm": 265.1,
+      "weight_g": 728.69,
+      "head_length_mm": 55.7,
+      "eye_diameter_mm": 9.3
+    },
+    "collection_info": {
+      "collector": "Dr. Nair",
+      "location": {
+        "coordinates": [16.2943, 68.2415],
+        "depth_m": 94,
+        "region": ""
+      },
+      "method": null
+    },
+    "otolith_data": {
+      "left_otolith": {
+        "length_mm": 13.52,
+        "width_mm": 6.33,
+        "weight_mg": 42.399,
+        "shape_descriptors": {
+          "circularity": 0.745,
+          "roundness": 0.759,
+          "aspect_ratio": 1.509
+        }
+      },
+      "right_otolith": {
+        "length_mm": 18.94,
+        "width_mm": 5.17,
+        "weight_mg": 74.681
+      }
+    },
+    "genetic_data": {
+      "dna_extracted": "yes",
+      "sequence_available": false,
+      "genbank_id": "MZ349505",
+      "marker_genes": null
+    },
+    "data_quality": {
+      "identification_confidence": "uncertain",
+      "preservation_state": "good",
+      "verified_by": "molecular"
+    }
+  },
+  {
+    "specimen_id": "SPEC_d95f75eb-c",
+    "collection_date": "2025-07-24T12:52:07.920645",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Actinopterygii",
+      "order": "Clupeiformes",
+      "family": "Clupeidae",
+      "genus": "Sardinella",
+      "species": "Sardinella longiceps",
+      "common_name": "Sardine"
+    },
+    "morphometrics": {
+      "total_length_mm": 224.2,
+      "standard_length_mm": 286.2,
+      "weight_g": 168.64,
+      "head_length_mm": 53.8,
+      "eye_diameter_mm": 5.8
+    },
+    "collection_info": {
+      "collector": "Ms. Patel",
+      "location": {
+        "coordinates": [11.7148, 76.0965],
+        "depth_m": 477,
+        "region": ""
+      },
+      "method": "hook_line"
+    },
+    "otolith_data": {
+      "left_otolith": {
+        "length_mm": 6.34,
+        "width_mm": 8.66,
+        "weight_mg": 65.189,
+        "shape_descriptors": {
+          "circularity": 0.604,
+          "roundness": 0.635,
+          "aspect_ratio": 1.811
+        }
+      },
+      "right_otolith": {
+        "length_mm": 8.64,
+        "width_mm": null,
+        "weight_mg": 15.519
+      }
+    },
+    "genetic_data": {
+      "dna_extracted": null,
+      "sequence_available": false,
+      "genbank_id": "MZ783740",
+      "marker_genes": ["16S", "12S"]
+    },
+    "data_quality": {
+      "identification_confidence": "low",
+      "preservation_state": "fair",
+      "verified_by": "morphology"
+    }
+  },
+  {
+    "specimen_id": "SPEC_83dbf7de-8",
+    "collection_date": "2023-11-17T12:52:07.920735",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Actinopterygii",
+      "order": "Perciformes",
+      "family": "Scombridae",
+      "genus": "Thunnus",
+      "species": "Thunnus albacares",
+      "common_name": "Tuna"
+    },
+    "morphometrics": {
+      "total_length_mm": 242.7,
+      "standard_length_mm": 194.3,
+      "weight_g": 559.66,
+      "head_length_mm": 59.2,
+      "eye_diameter_mm": 7.8
+    },
+    "collection_info": {
+      "collector": "Unknown",
+      "location": {
+        "coordinates": [13.0647, 71.3137],
+        "depth_m": 358,
+        "region": "Bay of Bengal"
+      },
+      "method": "gillnet"
+    },
+    "otolith_data": {
+      "left_otolith": {
+        "length_mm": 19.42,
+        "width_mm": 8.67,
+        "weight_mg": 38.071,
+        "shape_descriptors": {}
+      },
+      "right_otolith": {
+        "length_mm": "missing",
+        "width_mm": 3.23,
+        "weight_mg": 39.009
+      }
+    },
+    "genetic_data": {
+      "dna_extracted": null,
+      "sequence_available": false,
+      "genbank_id": null,
+      "marker_genes": ["COI", "16S"]
+    },
+    "data_quality": {
+      "identification_confidence": "",
+      "preservation_state": "excellent",
+      "verified_by": "taxonomist"
+    }
+  },
+  {
+    "specimen_id": "SPEC_a9299b14-b",
+    "collection_date": "2023-01-18T12:52:07.920822",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Actinopterygii",
+      "order": "Perciformes",
+      "family": "Lutjanidae",
+      "genus": "Lutjanus",
+      "species": "Lutjanus argentimaculatus",
+      "common_name": "Red Snapper"
+    },
+    "morphometrics": {
+      "total_length_mm": 223.1,
+      "standard_length_mm": 262.4,
+      "weight_g": 542.5,
+      "head_length_mm": 27.3,
+      "eye_diameter_mm": 8.5
+    },
+    "collection_info": {
+      "collector": "",
+      "location": {
+        "coordinates": [7.5589, 79.1587],
+        "depth_m": 294,
+        "region": "Bay of Bengal"
+      },
+      "method": "trawl"
+    },
+    "otolith_data": {
+      "left_otolith": {
+        "length_mm": 14.69,
+        "width_mm": 12.58,
+        "weight_mg": 62.75,
+        "shape_descriptors": {
+          "circularity": 0.877,
+          "roundness": 0.628,
+          "aspect_ratio": 2.013
+        }
+      },
+      "right_otolith": {
+        "length_mm": 15.22,
+        "width_mm": 8.07,
+        "weight_mg": 51.378
+      }
+    },
+    "genetic_data": {
+      "dna_extracted": true,
+      "sequence_available": false,
+      "genbank_id": "MZ162976",
+      "marker_genes": ["16S", "12S"]
+    },
+    "data_quality": {
+      "identification_confidence": "low",
+      "preservation_state": "good",
+      "verified_by": ""
+    }
+  },
+  {
+    "specimen_id": "SPEC_3e7dabda-7",
+    "collection_date": "2024-01-02T12:52:07.920946",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Actinopterygii",
+      "order": "Perciformes",
+      "family": "Lutjanidae",
+      "genus": "Lutjanus",
+      "species": "Lutjanus argentimaculatus",
+      "common_name": "Red Snapper"
+    },
+    "morphometrics": {
+      "total_length_mm": 350.0,
+      "standard_length_mm": 113.4,
+      "weight_g": 380.11,
+      "head_length_mm": 33.4,
+      "eye_diameter_mm": 9.1
+    },
+    "collection_info": {
+      "collector": "Ms. Patel",
+      "location": {
+        "coordinates": [8.6206, 78.9367],
+        "depth_m": 371,
+        "region": "Indian Ocean"
+      },
+      "method": "trawl"
+    },
+    "otolith_data": {
+      "left_otolith": {
+        "length_mm": null,
+        "width_mm": "",
+        "weight_mg": 69.604,
+        "shape_descriptors": {
+          "circularity": null,
+          "roundness": 0.696,
+          "aspect_ratio": 1.201
+        }
+      },
+      "right_otolith": {
+        "length_mm": 9.65,
+        "width_mm": 0.97,
+        "weight_mg": 36.168
+      }
+    },
+    "genetic_data": {
+      "dna_extracted": "yes",
+      "sequence_available": null,
+      "genbank_id": null,
+      "marker_genes": null
+    },
+    "data_quality": {
+      "identification_confidence": "uncertain",
+      "preservation_state": "poor",
+      "verified_by": ""
+    }
+  },
+  {
+    "specimen_id": "SPEC_5d45578a-1",
+    "collection_date": "2024-03-13T12:52:07.921053",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Actinopterygii",
+      "order": "Perciformes",
+      "family": "Stromateidae",
+      "genus": "Pampus",
+      "species": "Pampus argenteus",
+      "common_name": "Pomfret"
+    },
+    "morphometrics": {
+      "total_length_mm": 323.1,
+      "standard_length_mm": 234.9,
+      "weight_g": 535.64,
+      "head_length_mm": 40.8,
+      "eye_diameter_mm": 4.2
+    },
+    "collection_info": {
+      "collector": "Dr. Sharma",
+      "location": {
+        "coordinates": [12.8069, 83.8957],
+        "depth_m": 354,
+        "region": "Indian Ocean"
+      },
+      "method": "purse_seine"
+    },
+    "otolith_data": {
+      "left_otolith": {
+        "length_mm": null,
+        "width_mm": 9.55,
+        "weight_mg": 28.314,
+        "shape_descriptors": {
+          "circularity": 0.702,
+          "roundness": 0.728,
+          "aspect_ratio": 1.461
+        }
+      },
+      "right_otolith": {
+        "length_mm": 21.05,
+        "width_mm": 9.55,
+        "weight_mg": 32.968
+      }
+    },
+    "genetic_data": {
+      "dna_extracted": null,
+      "sequence_available": null,
+      "genbank_id": "MZ211954",
+      "marker_genes": null
+    },
+    "data_quality": {
+      "identification_confidence": "low",
+      "preservation_state": "poor",
+      "verified_by": "taxonomist"
+    }
+  },
+  {
+    "specimen_id": "SPEC_3cf78d42-1",
+    "collection_date": "2023-08-27T12:52:07.921156",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Actinopterygii",
+      "order": "Perciformes",
+      "family": "Serranidae",
+      "genus": "Epinephelus",
+      "species": "Epinephelus malabaricus",
+      "common_name": "Grouper"
+    },
+    "morphometrics": {
+      "total_length_mm": 201.1,
+      "standard_length_mm": "missing",
+      "weight_g": "",
+      "head_length_mm": 43.6,
+      "eye_diameter_mm": 7.3
+    },
+    "collection_info": {
+      "collector": "Prof. Kumar",
+      "location": {
+        "coordinates": [11.8708, 69.0709],
+        "depth_m": 162,
+        "region": "Lakshadweep"
+      },
+      "method": "unknown"
+    },
+    "otolith_data": {
+      "left_otolith": {
+        "length_mm": 16.47,
+        "width_mm": 8.56,
+        "weight_mg": 30.367,
+        "shape_descriptors": {}
+      },
+      "right_otolith": {
+        "length_mm": 19.85,
+        "width_mm": 8.04,
+        "weight_mg": 58.608
+      }
+    },
+    "genetic_data": {
+      "dna_extracted": false,
+      "sequence_available": null,
+      "genbank_id": "MZ580636",
+      "marker_genes": null
+    },
+    "data_quality": {
+      "identification_confidence": "",
+      "preservation_state": "good",
+      "verified_by": null
+    }
+  },
+  {
+    "specimen_id": "SPEC_9e8cbe1d-c",
+    "collection_date": "2025-08-11T12:52:07.921254",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Actinopterygii",
+      "order": "Perciformes",
+      "family": "Stromateidae",
+      "genus": "Pampus",
+      "species": "Pampus argenteus",
+      "common_name": "Pomfret"
+    },
+    "morphometrics": {
+      "total_length_mm": 201.3,
+      "standard_length_mm": 223.6,
+      "weight_g": "",
+      "head_length_mm": 49.7,
+      "eye_diameter_mm": 2.3
+    },
+    "collection_info": {
+      "collector": "",
+      "location": {
+        "coordinates": [6.5496, 79.922],
+        "depth_m": 93,
+        "region": "Arabian Sea"
+      },
+      "method": "gillnet"
+    },
+    "otolith_data": {
+      "left_otolith": {
+        "length_mm": 20.06,
+        "width_mm": "",
+        "weight_mg": 70.813,
+        "shape_descriptors": {
+          "circularity": null,
+          "roundness": 0.534,
+          "aspect_ratio": 1.735
+        }
+      },
+      "right_otolith": {
+        "length_mm": "missing",
+        "width_mm": 6.75,
+        "weight_mg": 23.057
+      }
+    },
+    "genetic_data": {
+      "dna_extracted": "yes",
+      "sequence_available": false,
+      "genbank_id": null,
+      "marker_genes": null
+    },
+    "data_quality": {
+      "identification_confidence": "",
+      "preservation_state": null,
+      "verified_by": "molecular"
+    }
+  },
+  {
+    "specimen_id": "SPEC_2a21530f-d",
+    "collection_date": "2023-07-28T12:52:07.921334",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Actinopterygii",
+      "order": "Perciformes",
+      "family": "Lutjanidae",
+      "genus": "Lutjanus",
+      "species": "Lutjanus argentimaculatus",
+      "common_name": "Red Snapper"
+    },
+    "morphometrics": {
+      "total_length_mm": null,
+      "standard_length_mm": 222.6,
+      "weight_g": 467.34,
+      "head_length_mm": 50.3,
+      "eye_diameter_mm": 8.6
+    },
+    "collection_info": {
+      "collector": "Ms. Patel",
+      "location": {
+        "coordinates": [8.0166, 74.2888],
+        "depth_m": 129,
+        "region": ""
+      },
+      "method": "trawl"
+    },
+    "otolith_data": {
+      "left_otolith": {
+        "length_mm": 14.02,
+        "width_mm": 12.34,
+        "weight_mg": 56.362,
+        "shape_descriptors": {
+          "circularity": 0.864,
+          "roundness": "",
+          "aspect_ratio": 1.207
+        }
+      },
+      "right_otolith": {
+        "length_mm": 7.8,
+        "width_mm": 11.85,
+        "weight_mg": 75.172
+      }
+    },
+    "genetic_data": {
+      "dna_extracted": "yes",
+      "sequence_available": null,
+      "genbank_id": null,
+      "marker_genes": ["COI"]
+    },
+    "data_quality": {
+      "identification_confidence": "low",
+      "preservation_state": null,
+      "verified_by": ""
+    }
+  },
+  {
+    "specimen_id": "SPEC_3b563286-d",
+    "collection_date": "2024-01-01T12:52:07.921430",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Actinopterygii",
+      "order": "Perciformes",
+      "family": "Scombridae",
+      "genus": "Scomberomorus",
+      "species": "Scomberomorus commerson",
+      "common_name": "Kingfish"
+    },
+    "morphometrics": {
+      "total_length_mm": 502.2,
+      "standard_length_mm": 127.0,
+      "weight_g": 498.58,
+      "head_length_mm": 13.8,
+      "eye_diameter_mm": 9.7
+    },
+    "collection_info": {
+      "collector": "Dr. Sharma",
+      "location": {
+        "coordinates": [13.5263, 81.3039],
+        "depth_m": 7,
+        "region": ""
+      },
+      "method": "hook_line"
+    },
+    "otolith_data": {
+      "left_otolith": {
+        "length_mm": 9.81,
+        "width_mm": 13.77,
+        "weight_mg": 29.508,
+        "shape_descriptors": {
+          "circularity": 0.896,
+          "roundness": 0.639,
+          "aspect_ratio": 1.764
+        }
+      },
+      "right_otolith": {
+        "length_mm": "missing",
+        "width_mm": 3.0,
+        "weight_mg": 35.046
+      }
+    },
+    "genetic_data": {
+      "dna_extracted": "yes",
+      "sequence_available": false,
+      "genbank_id": null,
+      "marker_genes": null
+    },
+    "data_quality": {
+      "identification_confidence": "high",
+      "preservation_state": "excellent",
+      "verified_by": "morphology"
+    }
+  },
+  {
+    "specimen_id": "SPEC_5fd9d147-8",
+    "collection_date": "2025-01-03T12:52:07.921532",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Actinopterygii",
+      "order": "Clupeiformes",
+      "family": "Engraulidae",
+      "genus": "Stolephorus",
+      "species": "Stolephorus indicus",
+      "common_name": "Anchovy"
+    },
+    "morphometrics": {
+      "total_length_mm": 92.0,
+      "standard_length_mm": 248.8,
+      "weight_g": 36.98,
+      "head_length_mm": 45.4,
+      "eye_diameter_mm": -1
+    },
+    "collection_info": {
+      "collector": "Unknown",
+      "location": {
+        "coordinates": [6.6295, 77.1351],
+        "depth_m": 19,
+        "region": "Lakshadweep"
+      },
+      "method": "unknown"
+    },
+    "otolith_data": {
+      "left_otolith": {
+        "length_mm": 3.69,
+        "width_mm": 7.04,
+        "weight_mg": 77.868,
+        "shape_descriptors": {
+          "circularity": 0.66,
+          "roundness": 0.598,
+          "aspect_ratio": 1.901
+        }
+      },
+      "right_otolith": {
+        "length_mm": "missing",
+        "width_mm": 8.95,
+        "weight_mg": 27.594
+      }
+    },
+    "genetic_data": {
+      "dna_extracted": "yes",
+      "sequence_available": true,
+      "genbank_id": null,
+      "marker_genes": []
+    },
+    "data_quality": {
+      "identification_confidence": "uncertain",
+      "preservation_state": "excellent",
+      "verified_by": ""
+    }
+  },
+  {
+    "specimen_id": "SPEC_887e9d79-4",
+    "collection_date": "2024-06-09T12:52:07.921614",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Actinopterygii",
+      "order": "Perciformes",
+      "family": "Sciaenidae",
+      "genus": "Johnius",
+      "species": "Johnius belangerii",
+      "common_name": "Croaker"
+    },
+    "morphometrics": {
+      "total_length_mm": 247.5,
+      "standard_length_mm": 201.2,
+      "weight_g": 544.53,
+      "head_length_mm": 24.5,
+      "eye_diameter_mm": 9.8
+    },
+    "collection_info": {
+      "collector": "Dr. Nair",
+      "location": {
+        "coordinates": [17.7067, 71.4376],
+        "depth_m": 359,
+        "region": ""
+      },
+      "method": "trawl"
+    },
+    "otolith_data": {
+      "left_otolith": {
+        "length_mm": 1.18,
+        "width_mm": "",
+        "weight_mg": 32.402,
+        "shape_descriptors": {
+          "circularity": 0.666,
+          "roundness": 0.547,
+          "aspect_ratio": 1.915
+        }
+      },
+      "right_otolith": {
+        "length_mm": 10.1,
+        "width_mm": 9.74,
+        "weight_mg": 44.43
+      }
+    },
+    "genetic_data": {
+      "dna_extracted": false,
+      "sequence_available": true,
+      "genbank_id": "MZ647114",
+      "marker_genes": ["COI", "16S", "12S"]
+    },
+    "data_quality": {
+      "identification_confidence": "medium",
+      "preservation_state": null,
+      "verified_by": ""
+    }
+  },
+  {
+    "specimen_id": "SPEC_d583af21-5",
+    "collection_date": "2025-09-03T12:52:07.921699",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Actinopterygii",
+      "order": "Perciformes",
+      "family": "Scombridae",
+      "genus": "Thunnus",
+      "species": "Thunnus albacares",
+      "common_name": "Tuna"
+    },
+    "morphometrics": {
+      "total_length_mm": 137.6,
+      "standard_length_mm": 136.0,
+      "weight_g": 489.74,
+      "head_length_mm": 43.8,
+      "eye_diameter_mm": 6.3
+    },
+    "collection_info": {
+      "collector": "",
+      "location": {
+        "coordinates": [8.6689, 83.7672],
+        "depth_m": 472,
+        "region": ""
+      },
+      "method": "trawl"
+    },
+    "otolith_data": {
+      "left_otolith": {
+        "length_mm": 10.08,
+        "width_mm": "",
+        "weight_mg": 58.923,
+        "shape_descriptors": {
+          "circularity": 0.728,
+          "roundness": 0.743,
+          "aspect_ratio": 1.827
+        }
+      },
+      "right_otolith": {
+        "length_mm": 9.98,
+        "width_mm": null,
+        "weight_mg": 42.326
+      }
+    },
+    "genetic_data": {
+      "dna_extracted": "yes",
+      "sequence_available": true,
+      "genbank_id": null,
+      "marker_genes": ["16S", "12S"]
+    },
+    "data_quality": {
+      "identification_confidence": "medium",
+      "preservation_state": "excellent",
+      "verified_by": "taxonomist"
+    }
+  },
+  {
+    "specimen_id": "SPEC_b4a39382-d",
+    "collection_date": "2025-04-05T12:52:07.921863",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Actinopterygii",
+      "order": "Perciformes",
+      "family": "Scombridae",
+      "genus": "Thunnus",
+      "species": "Thunnus albacares",
+      "common_name": "Tuna"
+    },
+    "morphometrics": {
+      "total_length_mm": 423.6,
+      "standard_length_mm": 107.5,
+      "weight_g": 79.63,
+      "head_length_mm": 56.8,
+      "eye_diameter_mm": -1
+    },
+    "collection_info": {
+      "collector": "Ms. Patel",
+      "location": {
+        "coordinates": [11.5651, 70.3566],
+        "depth_m": 99,
+        "region": "Indian Ocean"
+      },
+      "method": null
+    },
+    "otolith_data": {
+      "left_otolith": {
+        "length_mm": 9.29,
+        "width_mm": 7.05,
+        "weight_mg": 29.377,
+        "shape_descriptors": {
+          "circularity": 0.7,
+          "roundness": "",
+          "aspect_ratio": 1.583
+        }
+      },
+      "right_otolith": {
+        "length_mm": 11.03,
+        "width_mm": 12.54,
+        "weight_mg": 59.24
+      }
+    },
+    "genetic_data": {
+      "dna_extracted": true,
+      "sequence_available": null,
+      "genbank_id": "MZ871501",
+      "marker_genes": ["COI", "16S"]
+    },
+    "data_quality": {
+      "identification_confidence": "",
+      "preservation_state": "fair",
+      "verified_by": "taxonomist"
+    }
+  },
+  {
+    "specimen_id": "SPEC_5839584a-3",
+    "collection_date": "2024-05-29T12:52:07.921986",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Actinopterygii",
+      "order": "Clupeiformes",
+      "family": "Clupeidae",
+      "genus": "Sardinella",
+      "species": "Sardinella longiceps",
+      "common_name": "Sardine"
+    },
+    "morphometrics": {
+      "total_length_mm": 319.0,
+      "standard_length_mm": 107.9,
+      "weight_g": 219.77,
+      "head_length_mm": 2.4,
+      "eye_diameter_mm": 5.6
+    },
+    "collection_info": {
+      "collector": "Dr. Sharma",
+      "location": {
+        "coordinates": [12.7291, 81.1508],
+        "depth_m": 176,
+        "region": "Bay of Bengal"
+      },
+      "method": "unknown"
+    },
+    "otolith_data": {
+      "left_otolith": {
+        "length_mm": 15.83,
+        "width_mm": 9.55,
+        "weight_mg": 40.57,
+        "shape_descriptors": {
+          "circularity": 0.663,
+          "roundness": 0.568,
+          "aspect_ratio": 1.517
+        }
+      },
+      "right_otolith": {
+        "length_mm": 12.01,
+        "width_mm": 5.9,
+        "weight_mg": -999
+      }
+    },
+    "genetic_data": {
+      "dna_extracted": null,
+      "sequence_available": false,
+      "genbank_id": "MZ652266",
+      "marker_genes": ["COI", "16S"]
+    },
+    "data_quality": {
+      "identification_confidence": "uncertain",
+      "preservation_state": null,
+      "verified_by": null
+    }
+  },
+  {
+    "specimen_id": "SPEC_7a0175b2-f",
+    "collection_date": "2023-12-22T12:52:07.922072",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Actinopterygii",
+      "order": "Perciformes",
+      "family": "Serranidae",
+      "genus": "Epinephelus",
+      "species": "Epinephelus malabaricus",
+      "common_name": "Grouper"
+    },
+    "morphometrics": {
+      "total_length_mm": 266.4,
+      "standard_length_mm": 249.8,
+      "weight_g": 126.82,
+      "head_length_mm": 49.5,
+      "eye_diameter_mm": 10.8
+    },
+    "collection_info": {
+      "collector": "Dr. Sharma",
+      "location": {
+        "coordinates": [8.2602, 83.0276],
+        "depth_m": 205,
+        "region": "Bay of Bengal"
+      },
+      "method": "gillnet"
+    },
+    "otolith_data": {
+      "left_otolith": {
+        "length_mm": 10.34,
+        "width_mm": "",
+        "weight_mg": 59.014,
+        "shape_descriptors": {
+          "circularity": null,
+          "roundness": 0.561,
+          "aspect_ratio": 2.057
+        }
+      },
+      "right_otolith": {
+        "length_mm": 23.64,
+        "width_mm": 7.6,
+        "weight_mg": 51.473
+      }
+    },
+    "genetic_data": {
+      "dna_extracted": "yes",
+      "sequence_available": false,
+      "genbank_id": "MZ873544",
+      "marker_genes": null
+    },
+    "data_quality": {
+      "identification_confidence": "high",
+      "preservation_state": "fair",
+      "verified_by": "molecular"
+    }
+  },
+  {
+    "specimen_id": "SPEC_e3b0be2e-5",
+    "collection_date": "2023-05-17T12:52:07.922165",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Actinopterygii",
+      "order": "Perciformes",
+      "family": "Lutjanidae",
+      "genus": "Lutjanus",
+      "species": "Lutjanus argentimaculatus",
+      "common_name": "Red Snapper"
+    },
+    "morphometrics": {
+      "total_length_mm": 191.0,
+      "standard_length_mm": 211.8,
+      "weight_g": 542.05,
+      "head_length_mm": 47.9,
+      "eye_diameter_mm": 4.9
+    },
+    "collection_info": {
+      "collector": "Unknown",
+      "location": {
+        "coordinates": [15.4419, 76.2645],
+        "depth_m": 276,
+        "region": ""
+      },
+      "method": "purse_seine"
+    },
+    "otolith_data": {
+      "left_otolith": {
+        "length_mm": 12.83,
+        "width_mm": 12.39,
+        "weight_mg": 53.973,
+        "shape_descriptors": {
+          "circularity": 0.668,
+          "roundness": 0.586,
+          "aspect_ratio": 1.961
+        }
+      },
+      "right_otolith": {
+        "length_mm": 16.04,
+        "width_mm": 7.21,
+        "weight_mg": 58.248
+      }
+    },
+    "genetic_data": {
+      "dna_extracted": false,
+      "sequence_available": null,
+      "genbank_id": "MZ291134",
+      "marker_genes": ["COI"]
+    },
+    "data_quality": {
+      "identification_confidence": "medium",
+      "preservation_state": "good",
+      "verified_by": "molecular"
+    }
+  },
+  {
+    "specimen_id": "SPEC_d8e3d9ed-9",
+    "collection_date": "2024-02-07T12:52:07.922252",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Actinopterygii",
+      "order": "Clupeiformes",
+      "family": "Clupeidae",
+      "genus": "Sardinella",
+      "species": "Sardinella longiceps",
+      "common_name": "Sardine"
+    },
+    "morphometrics": {
+      "total_length_mm": 272.3,
+      "standard_length_mm": 138.2,
+      "weight_g": 513.7,
+      "head_length_mm": 30.1,
+      "eye_diameter_mm": 6.1
+    },
+    "collection_info": {
+      "collector": "Dr. Sharma",
+      "location": {
+        "coordinates": [13.9866, 84.6264],
+        "depth_m": 234,
+        "region": ""
+      },
+      "method": "hook_line"
+    },
+    "otolith_data": {
+      "left_otolith": {
+        "length_mm": 12.76,
+        "width_mm": 8.89,
+        "weight_mg": "N/A",
+        "shape_descriptors": {
+          "circularity": 0.884,
+          "roundness": 0.547,
+          "aspect_ratio": 2.073
+        }
+      },
+      "right_otolith": {
+        "length_mm": 7.22,
+        "width_mm": 10.96,
+        "weight_mg": 54.868
+      }
+    },
+    "genetic_data": {
+      "dna_extracted": null,
+      "sequence_available": null,
+      "genbank_id": "MZ938416",
+      "marker_genes": []
+    },
+    "data_quality": {
+      "identification_confidence": "uncertain",
+      "preservation_state": "fair",
+      "verified_by": "taxonomist"
+    }
+  },
+  {
+    "specimen_id": "SPEC_d8961c0a-3",
+    "collection_date": "2025-04-28T12:52:07.922342",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Actinopterygii",
+      "order": "Perciformes",
+      "family": "Scombridae",
+      "genus": "Rastrelliger",
+      "species": "Rastrelliger kanagurta",
+      "common_name": "Indian Mackerel"
+    },
+    "morphometrics": {
+      "total_length_mm": 193.6,
+      "standard_length_mm": 100.1,
+      "weight_g": "",
+      "head_length_mm": 42.8,
+      "eye_diameter_mm": 6.7
+    },
+    "collection_info": {
+      "collector": "Prof. Kumar",
+      "location": {
+        "coordinates": [11.3517, 69.5722],
+        "depth_m": 333,
+        "region": "Bay of Bengal"
+      },
+      "method": "unknown"
+    },
+    "otolith_data": {
+      "left_otolith": {
+        "length_mm": 12.45,
+        "width_mm": 6.91,
+        "weight_mg": 4.851,
+        "shape_descriptors": {
+          "circularity": null,
+          "roundness": 0.703,
+          "aspect_ratio": 2.062
+        }
+      },
+      "right_otolith": {
+        "length_mm": 10.51,
+        "width_mm": 7.01,
+        "weight_mg": 56.04
+      }
+    },
+    "genetic_data": {
+      "dna_extracted": "no",
+      "sequence_available": true,
+      "genbank_id": "MZ478603",
+      "marker_genes": ["COI", "16S", "12S"]
+    },
+    "data_quality": {
+      "identification_confidence": "medium",
+      "preservation_state": "poor",
+      "verified_by": "morphology"
+    }
+  },
+  {
+    "specimen_id": "SPEC_822067e9-3",
+    "collection_date": "2024-11-30T12:52:07.922426",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Actinopterygii",
+      "order": "Perciformes",
+      "family": "Scombridae",
+      "genus": "Rastrelliger",
+      "species": "Rastrelliger kanagurta",
+      "common_name": "Indian Mackerel"
+    },
+    "morphometrics": {
+      "total_length_mm": 194.1,
+      "standard_length_mm": 309.1,
+      "weight_g": 67.67,
+      "head_length_mm": 64.7,
+      "eye_diameter_mm": 7.3
+    },
+    "collection_info": {
+      "collector": "Prof. Kumar",
+      "location": {
+        "coordinates": [14.7342, 75.5517],
+        "depth_m": 416,
+        "region": "Lakshadweep"
+      },
+      "method": "gillnet"
+    },
+    "otolith_data": {
+      "left_otolith": {
+        "length_mm": 15.44,
+        "width_mm": 8.24,
+        "weight_mg": 67.791,
+        "shape_descriptors": {
+          "circularity": 0.851,
+          "roundness": 0.543,
+          "aspect_ratio": 1.473
+        }
+      },
+      "right_otolith": {
+        "length_mm": 10.51,
+        "width_mm": 4.71,
+        "weight_mg": 70.99
+      }
+    },
+    "genetic_data": {
+      "dna_extracted": "no",
+      "sequence_available": false,
+      "genbank_id": null,
+      "marker_genes": ["COI", "16S", "12S"]
+    },
+    "data_quality": {
+      "identification_confidence": "low",
+      "preservation_state": "poor",
+      "verified_by": "molecular"
+    }
+  },
+  {
+    "specimen_id": "SPEC_23008f67-2",
+    "collection_date": "2023-08-06T12:52:07.922541",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Actinopterygii",
+      "order": "Perciformes",
+      "family": "Sciaenidae",
+      "genus": "Johnius",
+      "species": "Johnius belangerii",
+      "common_name": "Croaker"
+    },
+    "morphometrics": {
+      "total_length_mm": 240.9,
+      "standard_length_mm": 214.4,
+      "weight_g": 696.95,
+      "head_length_mm": 29.5,
+      "eye_diameter_mm": 9.8
+    },
+    "collection_info": {
+      "collector": "Ms. Patel",
+      "location": {
+        "coordinates": [6.5068, 82.0462],
+        "depth_m": 160,
+        "region": "Lakshadweep"
+      },
+      "method": "unknown"
+    },
+    "otolith_data": {
+      "left_otolith": {
+        "length_mm": 9.64,
+        "width_mm": 7.6,
+        "weight_mg": 46.446,
+        "shape_descriptors": {
+          "circularity": 0.792,
+          "roundness": 0.537,
+          "aspect_ratio": 1.799
+        }
+      },
+      "right_otolith": {
+        "length_mm": 5.95,
+        "width_mm": 5.64,
+        "weight_mg": 69.67
+      }
+    },
+    "genetic_data": {
+      "dna_extracted": true,
+      "sequence_available": true,
+      "genbank_id": "MZ617000",
+      "marker_genes": ["COI", "16S"]
+    },
+    "data_quality": {
+      "identification_confidence": "",
+      "preservation_state": "fair",
+      "verified_by": null
+    }
+  },
+  {
+    "specimen_id": "SPEC_df5162bf-e",
+    "collection_date": "2023-04-12T12:52:07.922643",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Actinopterygii",
+      "order": "Clupeiformes",
+      "family": "Engraulidae",
+      "genus": "Stolephorus",
+      "species": "Stolephorus indicus",
+      "common_name": "Anchovy"
+    },
+    "morphometrics": {
+      "total_length_mm": 320.9,
+      "standard_length_mm": 195.9,
+      "weight_g": 498.62,
+      "head_length_mm": 40.6,
+      "eye_diameter_mm": 12.1
+    },
+    "collection_info": {
+      "collector": "Dr. Nair",
+      "location": {
+        "coordinates": [12.1503, 77.7795],
+        "depth_m": 88,
+        "region": ""
+      },
+      "method": "trawl"
+    },
+    "otolith_data": {
+      "left_otolith": {
+        "length_mm": 11.2,
+        "width_mm": 8.7,
+        "weight_mg": 67.921,
+        "shape_descriptors": {
+          "circularity": null,
+          "roundness": 0.691,
+          "aspect_ratio": 2.06
+        }
+      },
+      "right_otolith": {
+        "length_mm": 8.91,
+        "width_mm": 12.42,
+        "weight_mg": 14.921
+      }
+    },
+    "genetic_data": {
+      "dna_extracted": false,
+      "sequence_available": null,
+      "genbank_id": null,
+      "marker_genes": ["COI", "16S"]
+    },
+    "data_quality": {
+      "identification_confidence": "",
+      "preservation_state": "good",
+      "verified_by": null
+    }
+  },
+  {
+    "specimen_id": "SPEC_edbeb909-d",
+    "collection_date": "2023-05-25T12:52:07.922738",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Actinopterygii",
+      "order": "Clupeiformes",
+      "family": "Clupeidae",
+      "genus": "Sardinella",
+      "species": "Sardinella longiceps",
+      "common_name": "Sardine"
+    },
+    "morphometrics": {
+      "total_length_mm": 380.4,
+      "standard_length_mm": 175.8,
+      "weight_g": 401.46,
+      "head_length_mm": 16.6,
+      "eye_diameter_mm": 6.6
+    },
+    "collection_info": {
+      "collector": "Dr. Nair",
+      "location": {
+        "coordinates": [7.15, 77.8608],
+        "depth_m": 11,
+        "region": "Bay of Bengal"
+      },
+      "method": "unknown"
+    },
+    "otolith_data": {
+      "left_otolith": {
+        "length_mm": 7.84,
+        "width_mm": 6.18,
+        "weight_mg": 42.254,
+        "shape_descriptors": {
+          "circularity": 0.665,
+          "roundness": 0.749,
+          "aspect_ratio": 1.916
+        }
+      },
+      "right_otolith": {
+        "length_mm": 16.03,
+        "width_mm": 8.5,
+        "weight_mg": 49.846
+      }
+    },
+    "genetic_data": {
+      "dna_extracted": "no",
+      "sequence_available": null,
+      "genbank_id": "MZ219502",
+      "marker_genes": ["COI", "16S", "12S"]
+    },
+    "data_quality": {
+      "identification_confidence": "uncertain",
+      "preservation_state": "excellent",
+      "verified_by": "taxonomist"
+    }
+  },
+  {
+    "specimen_id": "SPEC_530aad0e-f",
+    "collection_date": "2024-05-14T12:52:07.923056",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Actinopterygii",
+      "order": "Perciformes",
+      "family": "Scombridae",
+      "genus": "Rastrelliger",
+      "species": "Rastrelliger kanagurta",
+      "common_name": "Indian Mackerel"
+    },
+    "morphometrics": {
+      "total_length_mm": 162.4,
+      "standard_length_mm": 142.8,
+      "weight_g": 809.75,
+      "head_length_mm": 34.0,
+      "eye_diameter_mm": 13.0
+    },
+    "collection_info": {
+      "collector": "",
+      "location": {
+        "coordinates": [12.2775, 84.4919],
+        "depth_m": 160,
+        "region": "Arabian Sea"
+      },
+      "method": null
+    },
+    "otolith_data": {
+      "left_otolith": {
+        "length_mm": 11.03,
+        "width_mm": 8.01,
+        "weight_mg": 66.407,
+        "shape_descriptors": {
+          "circularity": 0.638,
+          "roundness": 0.524,
+          "aspect_ratio": 1.822
+        }
+      },
+      "right_otolith": {
+        "length_mm": "missing",
+        "width_mm": 11.59,
+        "weight_mg": 41.895
+      }
+    },
+    "genetic_data": {
+      "dna_extracted": true,
+      "sequence_available": true,
+      "genbank_id": null,
+      "marker_genes": null
+    },
+    "data_quality": {
+      "identification_confidence": "",
+      "preservation_state": null,
+      "verified_by": "taxonomist"
+    }
+  },
+  {
+    "specimen_id": "SPEC_7bd11bb4-9",
+    "collection_date": "2025-08-04T12:52:07.923281",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Actinopterygii",
+      "order": "Perciformes",
+      "family": "Scombridae",
+      "genus": "Thunnus",
+      "species": "Thunnus albacares",
+      "common_name": "Tuna"
+    },
+    "morphometrics": {
+      "total_length_mm": 218.9,
+      "standard_length_mm": 196.4,
+      "weight_g": 517.59,
+      "head_length_mm": 58.4,
+      "eye_diameter_mm": 8.0
+    },
+    "collection_info": {
+      "collector": "",
+      "location": {
+        "coordinates": [8.4648, 83.32],
+        "depth_m": 184,
+        "region": "Arabian Sea"
+      },
+      "method": "trawl"
+    },
+    "otolith_data": {
+      "left_otolith": {
+        "length_mm": 14.48,
+        "width_mm": 12.92,
+        "weight_mg": 52.626,
+        "shape_descriptors": {
+          "circularity": 0.857,
+          "roundness": 0.684,
+          "aspect_ratio": 1.654
+        }
+      },
+      "right_otolith": {
+        "length_mm": 13.38,
+        "width_mm": 3.5,
+        "weight_mg": -5.984
+      }
+    },
+    "genetic_data": {
+      "dna_extracted": false,
+      "sequence_available": false,
+      "genbank_id": null,
+      "marker_genes": []
+    },
+    "data_quality": {
+      "identification_confidence": "high",
+      "preservation_state": "excellent",
+      "verified_by": "molecular"
+    }
+  },
+  {
+    "specimen_id": "SPEC_09187281-1",
+    "collection_date": "2024-09-07T12:52:07.923385",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Actinopterygii",
+      "order": "Perciformes",
+      "family": "Serranidae",
+      "genus": "Epinephelus",
+      "species": "Epinephelus malabaricus",
+      "common_name": "Grouper"
+    },
+    "morphometrics": {
+      "total_length_mm": 281.1,
+      "standard_length_mm": 193.8,
+      "weight_g": 347.04,
+      "head_length_mm": 48.7,
+      "eye_diameter_mm": 7.8
+    },
+    "collection_info": {
+      "collector": "Dr. Nair",
+      "location": {
+        "coordinates": [17.7756, 75.2096],
+        "depth_m": 213,
+        "region": "Arabian Sea"
+      },
+      "method": "gillnet"
+    },
+    "otolith_data": {
+      "left_otolith": {
+        "length_mm": 16.51,
+        "width_mm": "",
+        "weight_mg": 46.722,
+        "shape_descriptors": {
+          "circularity": 0.767,
+          "roundness": "",
+          "aspect_ratio": 1.495
+        }
+      },
+      "right_otolith": {
+        "length_mm": 9.04,
+        "width_mm": 10.77,
+        "weight_mg": 39.875
+      }
+    },
+    "genetic_data": {
+      "dna_extracted": "yes",
+      "sequence_available": true,
+      "genbank_id": "MZ404704",
+      "marker_genes": ["COI", "16S", "12S"]
+    },
+    "data_quality": {
+      "identification_confidence": "medium",
+      "preservation_state": "excellent",
+      "verified_by": ""
+    }
+  },
+  {
+    "specimen_id": "SPEC_bb5c0eea-b",
+    "collection_date": "2025-03-18T12:52:07.923486",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Actinopterygii",
+      "order": "Clupeiformes",
+      "family": "Clupeidae",
+      "genus": "Sardinella",
+      "species": "Sardinella longiceps",
+      "common_name": "Sardine"
+    },
+    "morphometrics": {
+      "total_length_mm": null,
+      "standard_length_mm": 234.2,
+      "weight_g": 354.52,
+      "head_length_mm": 35.3,
+      "eye_diameter_mm": 8.3
+    },
+    "collection_info": {
+      "collector": "",
+      "location": {
+        "coordinates": [13.9026, 69.4451],
+        "depth_m": 210,
+        "region": ""
+      },
+      "method": "trawl"
+    },
+    "otolith_data": {
+      "left_otolith": {
+        "length_mm": 12.05,
+        "width_mm": 9.44,
+        "weight_mg": 39.627,
+        "shape_descriptors": {
+          "circularity": 0.66,
+          "roundness": 0.621,
+          "aspect_ratio": 1.41
+        }
+      },
+      "right_otolith": {
+        "length_mm": 4.57,
+        "width_mm": 6.64,
+        "weight_mg": 59.083
+      }
+    },
+    "genetic_data": {
+      "dna_extracted": "no",
+      "sequence_available": false,
+      "genbank_id": "MZ939892",
+      "marker_genes": null
+    },
+    "data_quality": {
+      "identification_confidence": "uncertain",
+      "preservation_state": "fair",
+      "verified_by": ""
+    }
+  },
+  {
+    "specimen_id": "SPEC_eb6e209e-c",
+    "collection_date": "2024-05-09T12:52:07.923662",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Actinopterygii",
+      "order": "Clupeiformes",
+      "family": "Engraulidae",
+      "genus": "Stolephorus",
+      "species": "Stolephorus indicus",
+      "common_name": "Anchovy"
+    },
+    "morphometrics": {
+      "total_length_mm": 226.2,
+      "standard_length_mm": 184.0,
+      "weight_g": 647.28,
+      "head_length_mm": 34.3,
+      "eye_diameter_mm": 3.4
+    },
+    "collection_info": {
+      "collector": "Ms. Patel",
+      "location": {
+        "coordinates": [11.9673, 78.6823],
+        "depth_m": 55,
+        "region": "Arabian Sea"
+      },
+      "method": "trawl"
+    },
+    "otolith_data": {
+      "left_otolith": {
+        "length_mm": 11.36,
+        "width_mm": "",
+        "weight_mg": 35.317,
+        "shape_descriptors": {
+          "circularity": 0.691,
+          "roundness": 0.728,
+          "aspect_ratio": 1.795
+        }
+      },
+      "right_otolith": {
+        "length_mm": 8.14,
+        "width_mm": 7.39,
+        "weight_mg": 53.339
+      }
+    },
+    "genetic_data": {
+      "dna_extracted": "yes",
+      "sequence_available": false,
+      "genbank_id": "MZ668787",
+      "marker_genes": ["16S", "12S"]
+    },
+    "data_quality": {
+      "identification_confidence": "",
+      "preservation_state": null,
+      "verified_by": "taxonomist"
+    }
+  },
+  {
+    "specimen_id": "SPEC_6fcb5c81-0",
+    "collection_date": "2024-07-04T12:52:07.923758",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Actinopterygii",
+      "order": "Perciformes",
+      "family": "Scombridae",
+      "genus": "Rastrelliger",
+      "species": "Rastrelliger kanagurta",
+      "common_name": "Indian Mackerel"
+    },
+    "morphometrics": {
+      "total_length_mm": 249.3,
+      "standard_length_mm": 220.0,
+      "weight_g": 812.68,
+      "head_length_mm": 39.9,
+      "eye_diameter_mm": 8.8
+    },
+    "collection_info": {
+      "collector": "Ms. Patel",
+      "location": {
+        "coordinates": [11.5159, 68.5586],
+        "depth_m": 445,
+        "region": "Indian Ocean"
+      },
+      "method": null
+    },
+    "otolith_data": {
+      "left_otolith": {
+        "length_mm": 9.96,
+        "width_mm": 5.46,
+        "weight_mg": 33.302,
+        "shape_descriptors": {
+          "circularity": 0.771,
+          "roundness": 0.666,
+          "aspect_ratio": 1.685
+        }
+      },
+      "right_otolith": {
+        "length_mm": 10.14,
+        "width_mm": 8.94,
+        "weight_mg": -999
+      }
+    },
+    "genetic_data": {
+      "dna_extracted": null,
+      "sequence_available": false,
+      "genbank_id": "MZ496149",
+      "marker_genes": []
+    },
+    "data_quality": {
+      "identification_confidence": "low",
+      "preservation_state": "fair",
+      "verified_by": "morphology"
+    }
+  },
+  {
+    "specimen_id": "SPEC_e9daf979-4",
+    "collection_date": "2025-08-02T12:52:07.923868",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Actinopterygii",
+      "order": "Perciformes",
+      "family": "Sciaenidae",
+      "genus": "Johnius",
+      "species": "Johnius belangerii",
+      "common_name": "Croaker"
+    },
+    "morphometrics": {
+      "total_length_mm": 437.9,
+      "standard_length_mm": 153.5,
+      "weight_g": 366.67,
+      "head_length_mm": 44.1,
+      "eye_diameter_mm": 9.2
+    },
+    "collection_info": {
+      "collector": "Unknown",
+      "location": {
+        "coordinates": [10.0951, 69.655],
+        "depth_m": 187,
+        "region": "Lakshadweep"
+      },
+      "method": "gillnet"
+    },
+    "otolith_data": {
+      "left_otolith": {
+        "length_mm": null,
+        "width_mm": 8.79,
+        "weight_mg": 70.682,
+        "shape_descriptors": {
+          "circularity": null,
+          "roundness": 0.761,
+          "aspect_ratio": 1.303
+        }
+      },
+      "right_otolith": {
+        "length_mm": 2.15,
+        "width_mm": null,
+        "weight_mg": -1.352
+      }
+    },
+    "genetic_data": {
+      "dna_extracted": "yes",
+      "sequence_available": null,
+      "genbank_id": "MZ541631",
+      "marker_genes": ["16S", "12S"]
+    },
+    "data_quality": {
+      "identification_confidence": "high",
+      "preservation_state": "poor",
+      "verified_by": null
+    }
+  },
+  {
+    "specimen_id": "SPEC_93edf4ef-5",
+    "collection_date": "2024-08-27T12:52:07.923996",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Actinopterygii",
+      "order": "Clupeiformes",
+      "family": "Clupeidae",
+      "genus": "Sardinella",
+      "species": "Sardinella longiceps",
+      "common_name": "Sardine"
+    },
+    "morphometrics": {
+      "total_length_mm": 210.3,
+      "standard_length_mm": 271.3,
+      "weight_g": 136.87,
+      "head_length_mm": -0.1,
+      "eye_diameter_mm": 9.7
+    },
+    "collection_info": {
+      "collector": "Unknown",
+      "location": {
+        "coordinates": [14.1013, 73.7114],
+        "depth_m": 396,
+        "region": "Indian Ocean"
+      },
+      "method": "hook_line"
+    },
+    "otolith_data": {
+      "left_otolith": {
+        "length_mm": 12.97,
+        "width_mm": 4.73,
+        "weight_mg": 25.289,
+        "shape_descriptors": {
+          "circularity": 0.836,
+          "roundness": 0.661,
+          "aspect_ratio": 1.459
+        }
+      },
+      "right_otolith": {
+        "length_mm": 8.12,
+        "width_mm": 8.22,
+        "weight_mg": 32.1
+      }
+    },
+    "genetic_data": {
+      "dna_extracted": true,
+      "sequence_available": null,
+      "genbank_id": "MZ199335",
+      "marker_genes": []
+    },
+    "data_quality": {
+      "identification_confidence": "low",
+      "preservation_state": "fair",
+      "verified_by": "taxonomist"
+    }
+  }
+]

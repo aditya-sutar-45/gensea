@@ -1,0 +1,51 @@
+record_id, date_collected, time_collected, timezone, season      , year, month_name, day_of_week
+TEMP_001 , 01/08/2023    , 00:00:00      , +0530   , post-monsoon, 2023,           , Tuesday
+TEMP_002 , 05/12/2023    , 00:00:00      ,         , pre-monsoon , 2023, December  , Tuesday
+TEMP_003 , 18/11/2023    ,               ,         , winter      , 2023, November  , Saturday
+TEMP_004 , 2023/05/25    ,               ,         , pre-monsoon , 2023, May       , 
+TEMP_005 , 12-25-2023    , 00:00:00      , +0530   ,             , 2023, December  , Monday
+TEMP_006 , 2023/07/22    ,               ,         , post-monsoon, 2023, July      , Saturday
+TEMP_007 , 09/11/2023    , 00:00:00      ,         ,             , 2023, November  , Thursday
+TEMP_008 , 02-17-2023    , 00:00:00      , +0530   , post-monsoon, 2023, February  , Friday
+TEMP_009 , 2023/01/28    , 00:00:00      , +0530   ,             , 2023, January   , Saturday
+TEMP_010 , 18/05/2023    , 00:00:00      , GMT+5:30,             , 2023, May       , Thursday
+TEMP_011 , 11-Dec-2023   , 00:00:00      , GMT+5:30,             , 2023, December  , Monday
+TEMP_012 , 06-19-2023    , 00:00:00      ,         , pre-monsoon , 2023, June      , Monday
+TEMP_013 , 2023/04/25    , 00:00:00      ,         , winter      , 2023, April     , Tuesday
+TEMP_014 , 14-Aug-2023   , 00:00:00      , +0530   , post-monsoon, 2023, August    , Monday
+TEMP_015 , 02-07-2023    ,               ,         , monsoon     , 2023, February  , Tuesday
+TEMP_016 , 01-Sep-2023   , 00:00:00      , GMT+5:30, pre-monsoon , 2023, September , Friday
+TEMP_017 , 20-Apr-2023   ,               , +0530   , monsoon     , 2023,           , 
+TEMP_018 , 10-04-2023    , 00:00:00      , IST     , post-monsoon, 2023, October   , Wednesday
+TEMP_019 , 16-May-2023   , 00:00:00      , IST     , post-monsoon, 2023, May       , Someday
+TEMP_020 , 2023-09-13    , 00:00:00      , +0530   , post-monsoon, 2023, September , Someday
+TEMP_021 , 20-Nov-2023   , 00:00:00      , GMT+5:30, winter      , 2023, November  , 
+TEMP_022 , 2023/10/19    , 00:00:00      , UTC     , winter      , 2023, October   , Thursday
+TEMP_023 , 2023-07-04    , 00:00:00      , UTC     , winter      , 2023, July      , Tuesday
+TEMP_024 , 12-Jan-2023   , 00:00:00      ,         ,             , 2023, January   , Thursday
+TEMP_025 , 2023/06/20    , 24:99:99      , GMT+5:30, post-monsoon, 2023, June      , Tuesday
+TEMP_026 , 2023-08-15    , 24:99:99      , GMT+5:30, post-monsoon, 2023, August    , Tuesday
+TEMP_027 , 16/11/2023    , 00:00:00      , UTC     ,             , 2023, November  , Thursday
+TEMP_028 , 14-Oct-2023   , 00:00:00      ,         ,             , 2023, October   , Saturday
+TEMP_029 , 2023-07-25    , 24:99:99      , GMT+5:30,             , 2023, July      , Tuesday
+TEMP_030 , 16-Jul-2023   , 00:00:00      , UTC     ,             , 2023, July      , Sunday
+TEMP_031 , 2023-05-16    , 00:00:00      , UTC     , pre-monsoon , 2023, May       , Tuesday
+TEMP_032 , 2023/06/20    , 00:00:00      , GMT+5:30,             , 2023, June      , Tuesday
+TEMP_033 , 07-20-2023    , 00:00:00      ,         , post-monsoon, 2023, July      , Thursday
+TEMP_034 , 26/11/2023    , 00:00:00      , +0530   , post-monsoon, 2023, November  , Sunday
+TEMP_035 , 2023-03-09    , 00:00:00      , UTC     , winter      , 2023, March     , Someday
+TEMP_036 , 22-May-2023   , 00:00:00      , GMT+5:30, pre-monsoon , 2023, May       , Monday
+TEMP_037 , 04-15-2023    , 00:00:00      , IST     , winter      , 2023, April     , Saturday
+TEMP_038 , 24-Apr-2023   , 00:00:00      , +0530   ,             , 2023, April     , Monday
+TEMP_039 , 2023/07/20    , 00:00:00      ,         ,             , 23  , July      , 
+TEMP_040 , 2023-08-07    , 00:00:00      , GMT+5:30, monsoon     , 2023, August    , Monday
+TEMP_041 , 26-Mar-2023   , 00:00:00      , GMT+5:30, monsoon     ,     , March     , Sunday
+TEMP_042 ,               , 00:00:00      , GMT+5:30, winter      , 2023, September , Friday
+TEMP_043 ,               , 00:00:00      , UTC     , pre-monsoon , 2023, July      , Friday
+TEMP_044 ,               , 00:00:00      , GMT+5:30,             , 2023, Month13   , Thursday
+TEMP_045 , 02/02/2023    , 24:99:99      , +0530   , winter      , -1  , February  , Thursday
+TEMP_046 ,               , 00:00:00      ,         , post-monsoon, 2023, June      , Sunday
+TEMP_047 , 2023/08/07    , 00:00:00      , IST     , winter      , 2023, August    , Monday
+TEMP_048 , invalid_date  , 00:00:00      , +0530   ,             , 2023, August    , 
+TEMP_049 , 11-25-2023    , 00:00:00      , UTC     , winter      , 2025, November  , Saturday
+TEMP_050 ,               ,               ,         ,             , 2023, July      , Tuesday
