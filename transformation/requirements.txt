@@ -1,0 +1,1 @@
+pip install pandas numpy sqlalchemy scikit-learn pyod fuzzywuzzy python-Levenshtein
