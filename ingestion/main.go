@@ -26,6 +26,9 @@ func main() {
 	log.Println("tables exists")
 
 	raw_ocean_data, err := parsers.LoadCSV[models.RawOceanData]("../data_lake/csv/oceanographic_data.csv")
+	for _, data := range raw_ocean_data {
+		data.SourceData = "../data_lake/csv/oceanographic_data.csv"
+	}
 	if err != nil {
 		log.Fatalln("failed to load ocean data csv!", err)
 		return
@@ -33,6 +36,9 @@ func main() {
 	log.Println("loaded ocean data from csv")
 
 	raw_fisheries_data, err := parsers.LoadCSV[models.RawFisheriesData]("../data_lake/csv/fisheries_catch_data.csv")
+	for _, data := range raw_fisheries_data {
+		data.SourceData = "../data_lake/csv/fisheries_catch_data.csv"
+	}
 	if err != nil {
 		log.Fatalln("failed to load fisheries csv!", err)
 		return
